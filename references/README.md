@@ -5,9 +5,9 @@ Please keep this file as a simple list for now, with keys of the form
 AuthorYear.  AuthorYear has the nice property of being human readable
 without jumping to a table, which [15] lacks.
 
-[Bowles18] Bowles, Nellie, "[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)", New York Times, June 23, 2018,
+[Bowles18] Bowles, Nellie, "[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)", New York Times, June 23, 2018
 
-[Brown16] Brown, Kristen V., "[Instagram's new moderation policy is exactly how we should handle abuse on the internet](Thermostats, Locks and Lights: Digital Tools of Domestic Abuse)", Splinter, September 15, 2016, 
+[Brown16] Brown, Kristen V., "[Instagram's new moderation policy is exactly how we should handle abuse on the internet](Thermostats, Locks and Lights: Digital Tools of Domestic Abuse)", Splinter, September 15, 2016
 
 [Derakhshan18] Derakhshan, Hossein, "[Information Disorder](https://docs.google.com/file/d/0B1ubBeZhttC4SVBvUTZwZWEtdTRrYjRhRl96RjZLcjRVZFlz/edit?filetype=mspresentation)", undated presentation
 
@@ -21,7 +21,7 @@ The New York Times, July18, 2018
 design issues led to conflict between AOL and Usenet.
 
 [Hao17] Hao, Karen, "[These simple design tricks can help diminish hate
-speech online](https://qz.com/1093804/these-simple-design-tricks-can-help-diminish-hate-speech-online/)", Quartz, October 11, 2017,
+speech online](https://qz.com/1093804/these-simple-design-tricks-can-help-diminish-hate-speech-online/)", Quartz, October 11, 2017
 
 
 [Hempel17] Hempel, Jessi, "[FOR NEXTDOOR, ELIMINATING RACISM IS NO
@@ -44,7 +44,7 @@ which seems a bit odd given the nom de plume.)
 [Masnick18] Masnick, Mike, "[Platforms, Speech And Truth: Policy, Policing And Impossible Choices](https://www.techdirt.com/articles/20180808/17090940397/platforms-speech-truth-policy-policing-impossible-choices.shtml)", Techdirt, August 9, 2018
 
 
-[Matsakis18] Matsakis, Louise, "HOW PRO-EATING DISORDER POSTS EVADE FILTERS ON SOCIAL MEDIA" June 13, 2018, https://www.wired.com/story/how-pro-eating-disorder-posts-evade-social-media-filters/
+[Matsakis18] Matsakis, Louise, "[HOW PRO-EATING DISORDER POSTS EVADE FILTERS ON SOCIAL MEDIA]( https://www.wired.com/story/how-pro-eating-disorder-posts-evade-social-media-filters/)" June 13, 2018
 
 [Ng18] Ng, Alfred, "[Inside Facebook, Twitter and Google's AI battle
 over your social lives](https://www.cnet.com/news/inside-facebook-twitter-and-googles-ai-battle-over-your-social-lives/)", Cnet, July 17, 2018
@@ -64,7 +64,7 @@ https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdD
 
 [Shostack14] Shostack, Adam *Threat Modeling: Designing for Security* (Wiley, 2014)
 
-[Stamos18] Stamos, Alex, [untitled presentation](https://www.facebook.com/FacebookforDevelopers/videos/10155607404583553/) F8 Conference, May 1, 2018, 
+[Stamos18] Stamos, Alex, [untitled presentation](https://www.facebook.com/FacebookforDevelopers/videos/10155607404583553/) F8 Conference, May 1, 2018 
 
 [Thomspon18] Thompson, Nicholas, "[Exclusive: Facebook Opens Up About False News](https://www.wired.com/story/exclusive-facebook-opens-up-about-false-news/)", Wired, May 23, 2018
 
