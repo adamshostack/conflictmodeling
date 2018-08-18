@@ -25,6 +25,8 @@ the tools that are being used, discuss the tradeoffs, and offer a
 resource for engineers and managers taking on these complex
 descisions.
 
+![A screenshot from Yelp](https://github.com/adamshostack/conflictmodeling/blob/master/images/RedHen.pdf)
+
 This site is organized along the lines of the 4-question frame for
 technology threat modeling:
 
