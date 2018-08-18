@@ -5,8 +5,7 @@ Please keep this file as a simple list for now, with keys of the form
 AuthorYear.  AuthorYear has the nice property of being human readable
 without jumping to a table, which [15] lacks.
 
-[Bowles18] Bowles, Nellie, "Thermostats, Locks and Lights: Digital Tools of Domestic Abuse", New York Times, June 23, 2018,
-https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html 
+[Bowles18] Bowles, Nellie, "[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)", New York Times, June 23, 2018,
 
 [Brown16] Brown, Kristen V., "Instagram's new moderation policy is exactly how we should handle abuse on the internet", Splinter, September 15, 2016, https://splinternews.com/instagrams-new-moderation-policy-is-exactly-how-we-shou-1793861897
 
