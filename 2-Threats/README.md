@@ -1,6 +1,6 @@
 # 2. What Can Go Wrong?
 
-In "[Transforming Tech with Diversity-friendly software](https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdDTrA/edit#slide=id.g2073602466_0_140)" Jon Pincus presented an attack tree for harrassing a person.  This is a way of investigating the question of "what can go wrong."  His tree is:
+This question is at the heart of technology threat modeling, and our tools, such as attack trees, can be adopted to conflict.  In "[Transforming Tech with Diversity-friendly software](https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdDTrA/edit#slide=id.g2073602466_0_140)" Jon Pincus presented an attack tree for harrassing a person.  This is a way of investigating the question of "what can go wrong."  His tree is:
 
 ![A threat tree for harrassment comprised of triggering, flooding and making them look bad](https://github.com/adamshostack/conflictmodeling/blob/master/images/Harrassment-attack-tree-by-Pincus.png)
 
@@ -10,10 +10,10 @@ attacks, there are things, such as election interference, that are
 uncommon in interpersonal conflict.
 
 # Interpersonal attacks
-(This is very incomplete)
+(This is very, very incomplete)
 
-Attacks: race, religion, sex, threats, politics, trolling, harrassment, libel
-Attacks outside the US include lesse-Majeste or accusations
+Attacks: race, religion, sex, threats, politics, trolling, harrassment, libel.
+Attacks outside the US might also include lesse-Majeste, blasphemy, or political advocacy.
 
 # Attacks by nation states
 
