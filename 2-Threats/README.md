@@ -2,6 +2,7 @@
 
 In "[Transforming Tech with Diversity-friendly software](https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdDTrA/edit#slide=id.g2073602466_0_140)" Jon Pincus presented an attack tree for harrassing a person.  This is a way of investigating the question of "what can go wrong."  His tree is:
 
+![A threat tree for harrassment comprised of triggering, flooding and making them look bad](https://github.com/adamshostack/conflictmodeling/blob/master/images/Harrassment-attack-tree-by-Pincus.png)
 
 My current model is that there's interpersonal attacks and attacks by
 nations or other large groups, although nations use interpersonal
