@@ -33,4 +33,6 @@ technology threat modeling:
 3. What are we going to do about it?
 4. Did we do a good job?
 
-
+## Important tasks
+1. There's a lot of information in the references.  It would be great to mine and organize into the 4 question framework.
+2. There are lots of ways to address it which we need to model and discuss.  For example, there's plenty of enthusiasm for and criticism of real name policies.  Can we pull that information together to be a better resource to help engineers, product managers, executives and advocates to have richer discussions?
