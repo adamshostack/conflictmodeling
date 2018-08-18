@@ -1,6 +1,6 @@
 # 2. What Can Go Wrong?
 
-In "[Transforming Tech with Diversity-friendly software}(https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdDTrA/edit#slide=id.g2073602466_0_140)" Jon Pincus presented an attack tree for harrassing a person.  This is a way of investigating the question of "what can go wrong."  His tree is:
+In "[Transforming Tech with Diversity-friendly software](https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdDTrA/edit#slide=id.g2073602466_0_140)" Jon Pincus presented an attack tree for harrassing a person.  This is a way of investigating the question of "what can go wrong."  His tree is:
 
 
 My current model is that there's interpersonal attacks and attacks by
