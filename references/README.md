@@ -14,7 +14,7 @@ https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.
 
 [Goel18] Goel, Vindu and Raj, Suhasini and Ravichandran, Priyadarshini, "How WhatsApp Leads Mobs to Murder in India" The New York Times, July18, 2018, https://www.nytimes.com/interactive/2018/07/18/technology/whatsapp-india-killings.html
 
-[Grossamn98] Grossman, Wendy, *net.wars* (NYUPress, 1998) https://nyupress.org/netwars/pages/chapter03/ch03_02.html Covers how design issues led to conflict between AOL and Usenet.
+[Grossman98] Grossman, Wendy, *net.wars* (NYUPress, 1998) https://nyupress.org/netwars/pages/chapter03/ch03_02.html Covers how design issues led to conflict between AOL and Usenet.
 
 [Hao17[ Hao, Karen, "These simple design tricks can help diminish hate speech online", Quartz, October 11, 2017, https://qz.com/1093804/these-simple-design-tricks-can-help-diminish-hate-speech-online/
 
@@ -24,6 +24,8 @@ https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.
 
 [Hopkins17] Hopkins, Nick, "Revealed: Facebook's internal rulebook on sex, terrorism and violence", The Guardian, May 21, 2017 
 https://www.theguardian.com/news/2017/may/21/revealed-facebook-internal-rulebook-sex-terrorism-violence
+
+[Levendowski16] Levendowski, Amanda "Conflict Modeling" in progress work, https://www.levendowski.net/conflict-modeling/
 
 [Lunatic] Lunatic, Azure and Byrne "Out of the Game: How Apps Fail Oppressed Users
 (and how you can help)", undated presentation, https://docs.google.com/presentation/d/1FwUHS5wmDdGVJGwYsnvAuFmcTcC4ZbueU7baNlvkh14/edit#slide=id.p  (I'm following my convention of tagging by last name of first author, which seems a bit odd given the nom de plume.)
@@ -54,4 +56,4 @@ https://www.nytimes.com/2018/07/18/technology/mark-zuckerberg-facebook-holocaust
 
 [Zunger17] Zunger, Yonatan, Asking the Right Questions About AI", Blog post Oct 11, 2017, https://medium.com/@yonatanzunger/asking-the-right-questions-about-ai-7ed2d9820c48 (Is a worthwhile read and has some provocative test cases about setting rules, search for "Christ.")
 
-Amanda Lewindowski conflict modeling work
+
