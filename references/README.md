@@ -1,5 +1,5 @@
 
-# Annotated Bibliographu
+# Annotated Bibliography
 
 Please keep this file as a simple list for now, with keys of the form
 AuthorYear.  AuthorYear has the nice property of being human readable
