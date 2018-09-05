@@ -1,7 +1,7 @@
 
 # Annotated Bibliography
 
-Please keep this file as a simple list for now, with keys of the form
+This file is a simple list for now, with keys of the form
 AuthorYear.  AuthorYear has the nice property of being human readable
 without jumping to a table, which labels like "[15]" lack.
 
@@ -31,7 +31,9 @@ QUICK FIX](https://www.wired.com/2017/02/for-nextdoor-eliminating-racism-is-no-q
 [Hill16] Hill, Kashmir "[How Nextdoor reduced racist posts by 75%](https://splinternews.com/how-nextdoor-reduced-racist-posts-by-75-1793861389)", Splinter, August 25, 2016
 
 
-[Hopkins17] Hopkins, Nick, "[Revealed: Facebook's internal rulebook on sex, terrorism and violence](https://www.theguardian.com/news/2017/may/21/revealed-facebook-internal-rulebook-sex-terrorism-violence)", The Guardian, May 21, 2017 
+[Hopkins17] Hopkins, Nick, "[Revealed: Facebook's internal rulebook on sex, terrorism and violence](https://www.theguardian.com/news/2017/may/21/revealed-facebook-internal-rulebook-sex-terrorism-violence)", The Guardian, May 21, 2017 (See also links and trackbacks)
+
+[Lawson18] Lawson, Nolan, "[Mastodon and the challenges of abuse in a federated system](https://nolanlawson.com/2018/08/31/mastodon-and-the-challenges-of-abuse-in-a-federated-system/)", blog post August 31, 2018.  
 
 [Levendowski16] Levendowski, Amanda "[Conflict Modeling](https://www.levendowski.net/conflict-modeling/)" in progress work, 
 
