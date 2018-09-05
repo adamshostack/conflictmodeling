@@ -1,5 +1,4 @@
-# conflictmodeling
-
+# Conflict Modeling
 A place to gather and organize information about using threat modeling
 frameworks to deal with social conflict in online systems.  Businesses
 are named here soley to make discussion concrete, not to criticise
@@ -28,7 +27,7 @@ the tools that are being used, discuss the tradeoffs, and offer a
 resource for engineers and managers taking on these complex
 descisions.
 
-![A screenshot from Yelp](https://github.com/adamshostack/conflictmodeling/blob/master/images/RedHen.pdf)
+![A screenshot from Yelp](https://github.com/adamshostack/conflictmodeling/images/RedHen.pdf)
 
 ## Threat Modeling
 
