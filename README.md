@@ -43,9 +43,9 @@ technology threat modeling:
 3. What are we going to do about it?
 4. Did we do a good job?
 
-Amanda Levendowski has convinced me that the hardest part of threat
+Amanda Levendowski has made a convincing case that the hardest part of threat
 modeling conflict is figuring out what to do about the issues that you
-find.
+find.  This site aims to track pros and cons of possible methods.
 
 ## Ways to Contribute
 1. There's a lot of information in the references.  It would be great to mine and organize into the 4 question framework.
