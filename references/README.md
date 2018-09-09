@@ -5,6 +5,8 @@ This file is a simple list for now, with keys of the form
 AuthorYear.  AuthorYear has the nice property of being human readable
 without jumping to a table, which labels like "[15]" lack.
 
+[Bail18] Bail, Charles, "[Twitter’s Flawed Solution to Political Polarization](https://www.nytimes.com/2018/09/08/opinion/sunday/twitter-political-polarization.html)", New York Times, Sept 8, 2018.  (Inserting opposing view information may increase polarization.)
+
 [Bowles18] Bowles, Nellie, "[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)", New York Times, June 23, 2018
 
 [Brown16] Brown, Kristen V., "[Instagram's new moderation policy is exactly how we should handle abuse on the internet](Thermostats, Locks and Lights: Digital Tools of Domestic Abuse)", Splinter, September 15, 2016
