@@ -53,6 +53,8 @@ which seems a bit odd given the nom de plume.)
 [Ng18] Ng, Alfred, "[Inside Facebook, Twitter and Google's AI battle
 over your social lives](https://www.cnet.com/news/inside-facebook-twitter-and-googles-ai-battle-over-your-social-lives/)", Cnet, July 17, 2018
 
+[Phillips] Phillips, Whitney "[The Oxygen of Amplification](https://datasociety.net/output/oxygen-of-amplification/) Data & Society, May 22, 2018  This is focused on editorial practice.
+
 [Pincus17] Pincus, Jon, "[Transforming Tech with Diversity-Friendly
 Software](https://medium.com/a-change-is-coming/transforming-tech-with-diversity-friendly-software-338f56d91df
 )", April 13, 2017, and
