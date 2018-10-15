@@ -39,6 +39,8 @@ QUICK FIX](https://www.wired.com/2017/02/for-nextdoor-eliminating-racism-is-no-q
 
 [Levendowski16] Levendowski, Amanda "[Conflict Modeling](https://www.levendowski.net/conflict-modeling/)" in progress work, 
 
+[Lorenz18] Lorenz, Taylor, "[Instagram Has a Massive Harassment Problem](https://www.theatlantic.com/technology/archive/2018/10/instagram-has-massive-harassment-problem/572890/) October, 2018  "moderators feel like they need to be experts in multiple social platforms to understand the nuances of each post."
+
 [Lunatic] Lunatic, Azure and Byrne "[Out of the Game: How Apps Fail
 Oppressed Users (and how you can
 help)](https://docs.google.com/presentation/d/1FwUHS5wmDdGVJGwYsnvAuFmcTcC4ZbueU7baNlvkh14/edit#slide=id.p)",
