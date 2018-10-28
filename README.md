@@ -27,7 +27,7 @@ the tools that are being used, discuss the tradeoffs, and offer a
 resource for engineers and managers taking on these complex
 descisions.
 
-![A screenshot from Yelp](https://github.com/adamshostack/conflictmodeling/images/RedHen.png)
+![A screenshot from Yelp](https://raw.githubusercontent.com//adamshostack/conflictmodeling/images/RedHen.png)
 
 ## Threat Modeling
 
