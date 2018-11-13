@@ -69,6 +69,8 @@ https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdD
 "[A Global Guide to State-Sponsored Trolling](https://www.bloomberg.com/features/2018-government-sponsored-cyber-militia-cookbook/)," Bloomberg, July 19,
 2018
 
+[SantaClaraLetter] Various "[An Open Letter to Mark Zuckerberg](https://santaclaraprinciples.org/open-letter/)"  November 13, 2018.  Calls for notice, appeals, and numbers in content moderation.
+
 
 [Shostack14] Shostack, Adam *Threat Modeling: Designing for Security* (Wiley, 2014)
 
