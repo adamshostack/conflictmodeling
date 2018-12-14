@@ -24,7 +24,7 @@ Conflict over images seems to run eternal.  From Nazi flags to nipples, image co
     1. Murder videos
     2. incitement to criminal acts/terror
     3. Pornography (filmed/photographed)
-    4. Pornography (surriptitious/revenge)
+    4. Pornography (surreptitious/revenge)
 4. Representations
     1. Racial stereotypes
     2. Regligious stereotypes
