@@ -66,6 +66,7 @@ https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdD
 
 [Pincus18] Pincus, Jon, "[“Social threat modeling”: name subject to change](https://medium.com/a-change-is-coming/social-threat-modeling-the-winds-of-change-are-in-the-air-8dc330479a50)" blog post, May 11, 2018 
 
+[RainDove18], Rain Dove, [Dear Instagram: This isn't sexual](https://www.instagram.com/p/Bj7lqJTlhDt/?hl=en) Instagram post, June 12 2018
 
 [Riley18], Riley, Michael and Etter, Lauren and Pradhan, Bibhudatta,
 "[A Global Guide to State-Sponsored Trolling](https://www.bloomberg.com/features/2018-government-sponsored-cyber-militia-cookbook/)," Bloomberg, July 19,
