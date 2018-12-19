@@ -13,7 +13,7 @@ without jumping to a table, which labels like "[15]" lack.
 
 [Derakhshan18] Derakhshan, Hossein, "[Information Disorder](https://docs.google.com/file/d/0B1ubBeZhttC4SVBvUTZwZWEtdTRrYjRhRl96RjZLcjRVZFlz/edit?filetype=mspresentation)", undated presentation
 
-[Dzieza18], Dzieza, Josh, "[Prime and Punishment: Dirty Dealing in the $175 Billion Amazon Marketplace](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement), Verge, December 19, 2018.  Discusses fake reviews being bought for competitors to trigger enforcement; how the enforcement mechanisms at Amazon appear from a seller's perspective.
+[Dzieza18], Dzieza, Josh, [Prime and Punishment: Dirty Dealing in the $175 Billion Amazon Marketplace](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement), Verge, December 19, 2018.  Discusses fake reviews being bought for competitors to trigger enforcement; how the enforcement mechanisms at Amazon appear from a seller's perspective.
 
 [Goel18] Goel, Vindu and Raj, Suhasini and Ravichandran,
 Priyadarshini, "[How WhatsApp Leads Mobs to Murder in
