@@ -5,11 +5,16 @@ This file is a simple list for now, with keys of the form
 AuthorYear.  AuthorYear has the nice property of being human readable
 without jumping to a table, which labels like "[15]" lack.
 
+[Amnesty18] Amnesty International, [Troll Patrol Findings: Using Crowdsourcing, Data Science & Machine Learning to
+Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.org/projects/troll-patrol/findings), December 2018.  Used 2500 hours of volunteer time to label 288,000 tweets "mentioning 778 women politicians and journalist sin the UK and US" for problematic and abusive content for type of content (racism, threats, etc) in text, image or video)
+
 [Bail18] Bail, Charles, "[Twitter’s Flawed Solution to Political Polarization](https://www.nytimes.com/2018/09/08/opinion/sunday/twitter-political-polarization.html)", New York Times, Sept 8, 2018.  (Inserting opposing view information may increase polarization.)
 
 [Bowles18] Bowles, Nellie, "[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)", New York Times, June 23, 2018
 
 [Brown16] Brown, Kristen V., "[Instagram's new moderation policy is exactly how we should handle abuse on the internet](Thermostats, Locks and Lights: Digital Tools of Domestic Abuse)", Splinter, September 15, 2016
+
+[Cade18], Cade, [On Weaponised Design](https://ourdataourselves.tacticaltech.org/posts/30-on-weaponised-design/) Tactical Tech, December 2018
 
 [Derakhshan18] Derakhshan, Hossein, "[Information Disorder](https://docs.google.com/file/d/0B1ubBeZhttC4SVBvUTZwZWEtdTRrYjRhRl96RjZLcjRVZFlz/edit?filetype=mspresentation)", undated presentation
 
@@ -58,6 +63,8 @@ which seems a bit odd given the nom de plume.)
 over your social lives](https://www.cnet.com/news/inside-facebook-twitter-and-googles-ai-battle-over-your-social-lives/)", Cnet, July 17, 2018
 
 [Ouellette18] Ouellette, Jennifer, "[Study: It only takes a few seconds for bots to spread misinformation](https://arstechnica.com/science/2018/11/study-it-only-takes-a-few-seconds-for-bots-to-spread-misinformation/)" TechCrunch, November 21, 2018.  6% of accounts spread 31% of identified misinformation in 2-10 seconds(!)
+
+[Perez17] Sarah Perez, [Twitter quickly kills a poorly thought out anti-abuse measure](https://techcrunch.com/2017/02/14/twitter-quickly-kills-a-poorly-thought-out-anti-abuse-measure/), Techcrunch, Feb 14, 2017
 
 [Phillips] Phillips, Whitney "[The Oxygen of Amplification](https://datasociety.net/output/oxygen-of-amplification/)" Data & Society, May 22, 2018  This is focused on editorial practice.
 
