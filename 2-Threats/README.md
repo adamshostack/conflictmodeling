@@ -20,6 +20,7 @@ Conflict over images seems to run eternal.  From Nazi flags to nipples, image co
      1. Swastikas (banned in Germany, offensive in other places, sacred to Hindus)
      2. Controversial (eg, Confederate flags)
      3. Other political symbols either banned or offensive, and also meaningful
+     4. Consider appropriated symbols such as Pepe the Frog?  (Pepe was adoped as a symbol of the alt-right. When do you ban him? Note that https://en.wikipedia.org/wiki/Pepe_the_Frog shows that Apple has banned it, Google has not.)
 3. Behavior/action
     1. Murder videos
     2. incitement to criminal acts/terror
