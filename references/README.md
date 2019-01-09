@@ -59,6 +59,8 @@ which seems a bit odd given the nom de plume.)
 
 [Matsakis18] Matsakis, Louise, "[HOW PRO-EATING DISORDER POSTS EVADE FILTERS ON SOCIAL MEDIA]( https://www.wired.com/story/how-pro-eating-disorder-posts-evade-social-media-filters/)" June 13, 2018
 
+[Modan19] Naaz Modan, [GOOD NEWS ALERT: CAIR Welcomes Amazon’s Removal of Doormats, Bath Mats with Islamic Religious Text](https://www.cair.com/good_news_alert_cair_welcomes_amazon_s_removal_of_doormats_bath_mats_with_islamic_religious_text), Council on American-Islamic Relations, press release January 4, 2019
+
 [Ng18] Ng, Alfred, "[Inside Facebook, Twitter and Google's AI battle
 over your social lives](https://www.cnet.com/news/inside-facebook-twitter-and-googles-ai-battle-over-your-social-lives/)", Cnet, July 17, 2018
 
@@ -83,6 +85,7 @@ https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdD
 
 [SantaClaraLetter] Various "[An Open Letter to Mark Zuckerberg](https://santaclaraprinciples.org/open-letter/)"  November 13, 2018.  Calls for notice, appeals, and numbers in content moderation.
 
+[Shaban19] Shaban, Hazma, [Amazon removes bathmats and items imprinted with verses from the Koran following complaints](https://www.washingtonpost.com/technology/2019/01/08/amazon-removes-bath-mats-items-imprinted-with-verses-koran-following-complaints/) The Washington Post, January 8, 2019
 
 [Shostack14] Shostack, Adam *Threat Modeling: Designing for Security* (Wiley, 2014)
 
