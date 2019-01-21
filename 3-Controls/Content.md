@@ -5,6 +5,7 @@ Choices you have include, but are not limited to:
 1. Banning certain words/content
 2. AI/ML to flag content that meets certain criteria
 3. Reporting systems
+4. Rate limiting
 
 ## Banned word lists
 Pros: Simple, predictable
@@ -17,4 +18,9 @@ Cons:
 
 ## Reporting systems
 Reporting systems range from Twitter/Facebook-style "flag this content" buttons to DMCA-style reporting.
+
+
+## Rate limiting
+Pros: Stop the spread of fake news.
+Cons: Stop activists from organizing the next Arab Spring.  Suddenly popular accounts may be popular for positive reasons.
 
