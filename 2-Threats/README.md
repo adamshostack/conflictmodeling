@@ -31,6 +31,9 @@ Conflict over images seems to run eternal.  From Nazi flags to nipples, image co
     2. Religious stereotypes
     3. Religious text (Doormat with verses from the Koran) See [Modan19](https://www.cair.com/good_news_alert_cair_welcomes_amazon_s_removal_of_doormats_bath_mats_with_islamic_religious_text)
     3. Representations of people (the prophet Mohammed)
+5. Legal issues
+     1. Copyright violations
+     2. Lese-Majeste
      
 
 # A taxonomy by actor
