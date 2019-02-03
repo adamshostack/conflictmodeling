@@ -9,7 +9,7 @@ nations or other large groups, although nations use interpersonal
 attacks, there are things, such as election interference, that are
 uncommon in interpersonal conflict.
 
-##  Unintented Platform Structure Effects
+##  Unintented Platform Effects on User Behaviour
 Unintended consecounces of platform structure and capabilities. The structure of an online/social platform has the ability to influnce the behaviour of it's users. An example of that is the echo chamber where users are only shown content which agrees to their sensibilities. This makes the users more suseptable to different attacks.
 
 # A taxonomy of images

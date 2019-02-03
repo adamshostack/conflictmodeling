@@ -5,7 +5,8 @@ Choices you have include, but are not limited to:
 1. Banning certain words/content
 2. AI/ML to flag content that meets certain criteria
 3. Reporting systems
-4. Rate limiting
+4. Behaviour based controls
+5. Rate limiting
 
 ## Banned word lists
 Pros: Simple, predictable
@@ -13,6 +14,7 @@ Pros: Simple, predictable
 Cons: 
 * Real life is not so simple.  See [Zunger17](https://medium.com/@yonatanzunger/asking-the-right-questions-about-ai-7ed2d9820c48) and search for Jay-Z
 * You will be accused of censorship.
+NOTE: You could alter / tag content based on word list(s) to help further controls
 
 
 
