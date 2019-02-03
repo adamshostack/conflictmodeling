@@ -9,6 +9,9 @@ nations or other large groups, although nations use interpersonal
 attacks, there are things, such as election interference, that are
 uncommon in interpersonal conflict.
 
+##  Unintented Platform Structure Effects
+Unintended consecounces of platform structure and capabilities. The structure of an online/social platform has the ability to influnce the behaviour of it's users. An example of that is the echo chamber where users are only shown content which agrees to their sensibilities. This makes the users more suseptable to different attacks.
+
 # A taxonomy of images
 Conflict over images seems to run eternal.  From Nazi flags to nipples, image content is a constant battlefield.  This list is to provoke thinking about the range of issues presented with images, not to suggest solutions.
 
@@ -41,7 +44,7 @@ Conflict over images seems to run eternal.  From Nazi flags to nipples, image co
 ## Interpersonal attacks
 (This is very, very incomplete)
 
-Attacks: race, religion, sex, threats, politics, trolling, harrassment, libel.
+Attacks: race, religion, sex, threats, politics, trolling, revenge, harrassment, libel.
 Attacks outside the US might also include lesse-Majeste, blasphemy, or political advocacy.
 
 ## Attacks by nation states
@@ -50,8 +53,11 @@ Attacks outside the US might also include lesse-Majeste, blasphemy, or political
 There's work to mine by at least Kate Starbird and Craig Silverman.
 
 ### Elections 
-At Facebook's F8 Conference in 2018, Alex Stamos presented a taxomony:
+At Facebook's F8 Conference in 2018, Alex Stamos presented a taxomony:  
+
 * Attacks on knowledge including amplification of fake messages
 * Safety of elections: harrassment, account takeover, threats of violence against voters, candidates, election officials
-* attempts to disenfranchise/reduce turnout 
+* attempts to disenfranchise/reduce turnout
+* attempts to confuse votres to vote for a different candidate
 
+ 
