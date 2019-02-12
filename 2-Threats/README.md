@@ -41,7 +41,7 @@ Conflict over images seems to run eternal.  From Nazi flags to nipples, image co
 
 # Fake content
     1. Fake Identities - used to conceal / spoof identities
-    2. Fake Audincnes - used to fake level of support and social validation
+    2. Fake Audiences - used to fake level of support and social validation
     3. False Facts - Confident assertion of false information
     4. False Narratives - the use of false information and arguments to influnce public/user opinion.
    
