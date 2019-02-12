@@ -1,0 +1,3 @@
+Often times its also not just the attacker accounts and content that need to be factored in but the intended audinces and public/private figures of value.
+
+Work in progress...
