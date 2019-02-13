@@ -22,6 +22,8 @@ The objective is to feed an ML model various signals in order to react to specif
 
 Various aspects can be factored in such as political turmoil or upcomming elections as some of these issues changes depending on the date.
 
+Content does not have to be viewed in a vacuum.  There are signals in not only content and publisher, but also the relationships between content, publisher and promotors.  See [Shu19](https://blog.acolyer.org/2019/02/13/beyond-news-contents-the-role-of-social-context-for-fake-news-detection/)
+
 ## UI Cues & Controls
 Provide transparency and visibility to the users of content authenticity and challenges to false narratives. Also the user to request to make these cues more (or less) visibile. This includes providing visibile cues that the content of verious categories e.g. the ability to distinguish if the content is from an official news source, a promoted ad, an opinion piece etc..  
 **NOTE:** I personally would like to know if the content I am seeing is an untampered news article, an opinion piece (which news sites do a poor job at tagging consistently) Official public Statements (press releases) vs. public/user generated content.
