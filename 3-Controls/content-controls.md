@@ -20,11 +20,11 @@ With billions of users one thing that needs to be factored in is automation and 
 
 The objective is to feed an ML model various signals in order to react to specific content i.e. either tag content for further review or provide soft challenges (rate throtteling / captcha / ID&V etc..) or preventative controls - banning account, blocking content, etc..
 
-Various aspacts should be factored in such as political turmoil or upcomming elections as some of these issues changes depending on the date.
+Various aspects can be factored in such as political turmoil or upcomming elections as some of these issues changes depending on the date.
 
 ## UI Cues & Controls
 Provide transparency and visibility to the users of content authenticity and challenges to false narratives. Also the user to request to make these cues more (or less) visibile. This includes providing visibile cues that the content of verious categories e.g. the ability to distinguish if the content is from an official news source, a promoted ad, an opinion piece etc..  
-**NOTE:** I personally would like to know if the content I am seeing is an untampered news article, an opinion peice (which news sites do a poor job at tagging consistently) Official public Statements (press releases) vs. public/user generated content.
+**NOTE:** I personally would like to know if the content I am seeing is an untampered news article, an opinion piece (which news sites do a poor job at tagging consistently) Official public Statements (press releases) vs. public/user generated content.
 
 ## Behaviour Based Controls
 Analysis of user behaviour of the account posting the content, added as a signel to either an ML model or for an analyst to investigate.
