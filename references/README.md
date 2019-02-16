@@ -8,6 +8,8 @@ without jumping to a table, which labels like "[15]" lack.
 [Amnesty18] Amnesty International, [Troll Patrol Findings: Using Crowdsourcing, Data Science & Machine Learning to
 Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.org/projects/troll-patrol/findings), December 2018.  Used 2500 hours of volunteer time to label 288,000 tweets "mentioning 778 women politicians and journalist sin the UK and US" for problematic and abusive content for type of content (racism, threats, etc) in text, image or video)
 
+[OpenAI19] OpenAI Institute, [Better Language Models and Their Implications](https://blog.openai.com/better-language-models/#sample8) February 14, 2019
+
 [Bail18] Bail, Charles, "[Twitter’s Flawed Solution to Political Polarization](https://www.nytimes.com/2018/09/08/opinion/sunday/twitter-political-polarization.html)", New York Times, Sept 8, 2018.  (Inserting opposing view information may increase polarization.)
 
 [Bowles18] Bowles, Nellie, "[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)", New York Times, June 23, 2018
