@@ -42,13 +42,14 @@ Cons:
 **NOTE:** You could alter / tag content based on word list(s) to help further controls i.e. a silent trigger for a soft challenge or a feature to pass on for behavioural / ML analyaisis.
 
 ## Threat Hunting 
-Setting up operations to proactivly monitor volitalie sisuations or important events (elections) and practively take staps to monitor, investage and limit the decemination of fake content.
+Setting up operations to proactivly monitor volatile sisuations or important events (elections) and practively take steps (what steps?) to monitor, investage and limit the dissemination of fake content.
 
 ## Reporting systems
 Reporting systems range from Twitter/Facebook-style "flag this content" buttons to DMCA-style reporting.
 
 ## Rate limiting
 Pros: Stop the spread of fake news.
+
 Cons: Stop activists from organizing the next Arab Spring.  Suddenly popular accounts may be popular for positive reasons.
 
 
