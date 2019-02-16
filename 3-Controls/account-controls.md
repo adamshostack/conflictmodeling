@@ -11,10 +11,15 @@ Decisions to be made include:
 
 
 ## Know your customer/user
-For promoted/paid content (such as adverts) there should be an identification/validation (ID&V) process and at the very least before the automation of putting out paid content. The challenge is event a single peice of content can be amplified by casaciding user sharing. Users should also have visibility on who is paying for the advert.
+For promoted/paid content (such as adverts) there can be an identification/validation (This is sold as "ID&V") process and at the very least before the automation of putting out paid content. 
+
+Challenges include
+* Automated systems are easily subverted.  Consider a malware distributor setting up "People for Doing the Right Thing, LLC."
+* A single peice of content can be amplified by casaciding user sharing. 
+* Users should also have visibility on who is paying for the advert.
 
 ## Limit Automation by default
-Many platforms provide APIs for automation. One way to limit abuse of these APIS is to provide limited capabilities prior to an identification/validation (ID&V) process
+Many platforms provide APIs for automation. One way to limit abuse of these APIS is to provide limited capabilities an unlock them after verification, time on platform, time using the platform without complaint.  This is of limited help after account takeover.
 
 ## Limit 2nd degree data harvesting
 In complex privacy models there are challenges when a user consents to provide personal data to a known colleague/other user and that person has is data harvested by an app, which icludes the other user. The platform should allow limitiations to limit such data mining sprawls.
