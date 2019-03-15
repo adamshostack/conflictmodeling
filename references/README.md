@@ -46,7 +46,9 @@ QUICK FIX](https://www.wired.com/2017/02/for-nextdoor-eliminating-racism-is-no-q
 
 [Lawson18] Lawson, Nolan, "[Mastodon and the challenges of abuse in a federated system](https://nolanlawson.com/2018/08/31/mastodon-and-the-challenges-of-abuse-in-a-federated-system/)", blog post August 31, 2018.  
 
-[Levendowski16] Levendowski, Amanda "[Conflict Modeling](https://www.levendowski.net/conflict-modeling/)" in progress work, 
+[Levendowski16] Levendowski, Amanda "[Conflict Modeling](https://www.levendowski.net/conflict-modeling/)" in progress work.
+
+[Linvill19] Darren L. Linvill and Patrick Warren "[Russian trolls can be surprisingly subtle, and often fun to read](https://www.washingtonpost.com/outlook/russian-trolls-can-be-surprisingly-subtle-and-often-fun-to-read/2019/03/08/677f8ec2-413c-11e9-9361-301ffb5bd5e6_story.html)", The Washington Post, March 8, 2019.  Reminds me of Kate Starbird's work; trolls are not what we stereotype.
 
 [Lorenz18] Lorenz, Taylor, "[Instagram Has a Massive Harassment Problem](https://www.theatlantic.com/technology/archive/2018/10/instagram-has-massive-harassment-problem/572890/) October, 2018  "moderators feel like they need to be experts in multiple social platforms to understand the nuances of each post."
 
@@ -62,6 +64,8 @@ which seems a bit odd given the nom de plume.)
 [Matsakis18] Matsakis, Louise, "[HOW PRO-EATING DISORDER POSTS EVADE FILTERS ON SOCIAL MEDIA]( https://www.wired.com/story/how-pro-eating-disorder-posts-evade-social-media-filters/)" June 13, 2018
 
 [Modan19] Naaz Modan, [GOOD NEWS ALERT: CAIR Welcomes Amazon’s Removal of Doormats, Bath Mats with Islamic Religious Text](https://www.cair.com/good_news_alert_cair_welcomes_amazon_s_removal_of_doormats_bath_mats_with_islamic_religious_text), Council on American-Islamic Relations, press release January 4, 2019
+
+[Newton19] Casey Newton, "[THE TRAUMA FLOOR](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)" The Verge, Feb 25, 2019
 
 [Ng18] Ng, Alfred, "[Inside Facebook, Twitter and Google's AI battle
 over your social lives](https://www.cnet.com/news/inside-facebook-twitter-and-googles-ai-battle-over-your-social-lives/)", Cnet, July 17, 2018
@@ -87,6 +91,8 @@ https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdD
 
 [SantaClaraLetter] Various "[An Open Letter to Mark Zuckerberg](https://santaclaraprinciples.org/open-letter/)"  November 13, 2018.  Calls for notice, appeals, and numbers in content moderation.
 
+[Selinger19] Evan Selinger, "[How Middle School Subverted Instagram’s Slider Emoji Tool](https://onezero.medium.com/instagrams-new-slider-emoji-is-now-a-bullying-tool-9f8cdf55a5f3)", Medium OneZero, March 4, 2019
+
 [Shaban19] Shaban, Hazma, [Amazon removes bathmats and items imprinted with verses from the Koran following complaints](https://www.washingtonpost.com/technology/2019/01/08/amazon-removes-bath-mats-items-imprinted-with-verses-koran-following-complaints/) The Washington Post, January 8, 2019
 
 [Shostack14] Shostack, Adam *Threat Modeling: Designing for Security* (Wiley, 2014)
@@ -98,7 +104,7 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 
 [Thomspon18] Thompson, Nicholas, "[Exclusive: Facebook Opens Up About False News](https://www.wired.com/story/exclusive-facebook-opens-up-about-false-news/)", Wired, May 23, 2018
 
-
+[Watercutter19] Angela Watercutter, "[ROTTEN TOMATOES' REVAMP COULD SAVE CAPTAIN MARVEL](https://www.wired.com/story/rotten-tomatoes-captain-marvel-trolls/)" Wired, February 25, 2019
 [Zraick18] Zraikck, Karen, "[Mark Zuckerberg Seeks to Clarify Remarks
 About Holocaust Deniers After Outcry](https://www.nytimes.com/2018/07/18/technology/mark-zuckerberg-facebook-holocaust-denial.html)" The New York Times, July 18, 2018
 
