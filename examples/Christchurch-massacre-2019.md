@@ -28,4 +28,4 @@ Pros: Don't spread the word
 
 Cons: 
 * What about journalists quoting it?  What ratio of words is acceptable?  Is it ok to say "This trash speaks for itself?"  
-* There is also a question of what form of speech should be allowed on these platforms, who is making those decisions, and how.
+* (The entire free speech debate; who gets to make the call; what scope their calls have)
