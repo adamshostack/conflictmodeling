@@ -8,7 +8,7 @@ Pros: The Content ID technology exists.
 
 Cons: 
 * Systems like ContentID routinely flag the wrong content. 
-* It would be trivial to add a few seconds of random other video to the start, overlay a chyron, or to simply re-encode it as you upload a copy.  These changes would break the ContentID technology (See [Stamos twitter thread](https://threadreaderapp.com/thread/1106650393902104578.html))
+* It would be trivial to add a few seconds of random other video to the start, overlay a chyron, or to simply re-encode it as you upload a copy.  These changes would break the ContentID technology (See [Stamos twitter thread](https://threadreaderapp.com/thread/1106650393902104578.html) and "[Inside YouTube’s struggles to shut down video of the New Zealand shooting — and the humans who outsmarted its systems](https://www.washingtonpost.com/technology/2019/03/18/inside-youtubes-struggles-shut-down-video-new-zealand-shooting-humans-who-outsmarted-its-systems/)")
 * ContentID is dependent on a copyright owner asserting that a video is theirs. In this case, the video owner wanted it shared. Who should be authorized to stop a video?  (See also pre-authorization)
 
 
