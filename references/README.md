@@ -38,6 +38,7 @@ speech online](https://qz.com/1093804/these-simple-design-tricks-can-help-dimini
 [Hempel17] Hempel, Jessi, "[FOR NEXTDOOR, ELIMINATING RACISM IS NO
 QUICK FIX](https://www.wired.com/2017/02/for-nextdoor-eliminating-racism-is-no-quick-fix/)", Wired, February 16, 2017
 
+[Hern19] Alex Hern, "[Facebook reviews live stream policy after Christchurch attack](https://www.theguardian.com/world/2019/mar/21/facebook-could-have-moved-faster-on-christchurch-video-if-it-were-suicide)", The Guardian, March 21, 2019 "Could have moved faster if it was suicide"
 
 [Hill16] Hill, Kashmir "[How Nextdoor reduced racist posts by 75%](https://splinternews.com/how-nextdoor-reduced-racist-posts-by-75-1793861389)", Splinter, August 25, 2016
 
@@ -88,6 +89,8 @@ https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdD
 [Riley18], Riley, Michael and Etter, Lauren and Pradhan, Bibhudatta,
 "[A Global Guide to State-Sponsored Trolling](https://www.bloomberg.com/features/2018-government-sponsored-cyber-militia-cookbook/)," Bloomberg, July 19,
 2018
+
+[Rosen19] Guy Rosen, "[A Further Update on New Zealand Terrorist Attack](https://newsroom.fb.com/news/2019/03/technical-update-on-new-zealand/)", Facebook blog post, March 21, 2019
 
 [SantaClaraLetter] Various "[An Open Letter to Mark Zuckerberg](https://santaclaraprinciples.org/open-letter/)"  November 13, 2018.  Calls for notice, appeals, and numbers in content moderation.
 
