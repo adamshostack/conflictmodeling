@@ -103,6 +103,8 @@ https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdD
 [Shu19] Kai Shu, Suhang Wang, Huan Liu, [Beyond News Contents:
 The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~skai2/files/wsdm_2019_fake_news.pdf) WSDM '19 and summary in [The Morning Paper](https://blog.acolyer.org/2019/02/13/beyond-news-contents-the-role-of-social-context-for-fake-news-detection/)
 
+[Sierra14] Kathy Sierra, "[Trouble at the Koolaid Point](http://seriouspony.com/trouble-at-the-koolaid-point)" October 7 2014.  
+
 [Stamos18] Stamos, Alex, [untitled presentation](https://www.facebook.com/FacebookforDevelopers/videos/10155607404583553/) F8 Conference, May 1, 2018 
 
 [Thomspon18] Thompson, Nicholas, "[Exclusive: Facebook Opens Up About False News](https://www.wired.com/story/exclusive-facebook-opens-up-about-false-news/)", Wired, May 23, 2018
