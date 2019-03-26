@@ -109,7 +109,11 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 
 [Thomspon18] Thompson, Nicholas, "[Exclusive: Facebook Opens Up About False News](https://www.wired.com/story/exclusive-facebook-opens-up-about-false-news/)", Wired, May 23, 2018
 
+[Velasquez09] Manuel Velasquez, Dennis Moberg, Michael J. Meyer, Thomas Shanks, Margaret R. McLean, David DeCosse, Claire André, and Kirk O. Hanson, "[A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/a-framework-for-ethical-decision-making/)" May, 2009 or Aug 2015 (both dates are shown)
+
 [Watercutter19] Angela Watercutter, "[ROTTEN TOMATOES' REVAMP COULD SAVE CAPTAIN MARVEL](https://www.wired.com/story/rotten-tomatoes-captain-marvel-trolls/)" Wired, February 25, 2019
+
+[Zimmerman19]  Annette Zimmermann and Bendert Zevenbergen, "[AI Ethics: Seven Traps](https://freedom-to-tinker.com/2019/03/25/ai-ethics-seven-traps/)" Freedom To Tinker blog, March 26, 2019
 
 [Zraick18] Zraikck, Karen, "[Mark Zuckerberg Seeks to Clarify Remarks
 About Holocaust Deniers After Outcry](https://www.nytimes.com/2018/07/18/technology/mark-zuckerberg-facebook-holocaust-denial.html)" The New York Times, July 18, 2018
