@@ -39,9 +39,10 @@ Conflict over images seems to run eternal.  From Nazi flags to nipples, image co
      2. Lese-Majeste
 
 # The Pen Is Mightier Than The Sword
+Words can be used for nearly any purpose, and considering the ways in which they can be used to hurt seems a nearly endless process.
 
-* Imitation
-* Confusion
+* Imitation/impersonation
+* Confusion including misleading news articles
 * Deception
 * Overwhelming
 * Cheating
@@ -50,6 +51,7 @@ Conflict over images seems to run eternal.  From Nazi flags to nipples, image co
 * Harassment
 
 ## AI Driven text
+Quantity has its own qualities.  Being able to scale to a very high volume of fake text can enable an attacker to overwhelm a discussion, drive out human conversation with either spam or apparently relevant content. In combination with fake accounts, it can tap into mechanisms like social proof, and make it appear that many people hold the view that the AI is espousing.  Even with a single account, it can generate so much text that it's impossible for a person to parse or respond to it all.  This can be a [Gish Gallop](https://en.wikipedia.org/wiki/Gish_gallop) on steroids.
 
 In their [release of the GPT-2 language module](https://blog.openai.com/better-language-models/) the OpenAI institute flags the following issues:
 * Generate misleading news articles
