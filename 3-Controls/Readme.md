@@ -1,0 +1,1 @@
+Selecting controls is often tricky.  They involve known-tradeoffs.  Over time, this page will grow to cover how those tradeoffs work, so you can engineer from an understanding of them, rather than re-inventing.
