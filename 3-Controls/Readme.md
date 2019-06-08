@@ -1,1 +1,10 @@
 Selecting controls is often tricky.  They involve known-tradeoffs.  Over time, this page will grow to cover how those tradeoffs work, so you can engineer from an understanding of them, rather than re-inventing.
+
+# Approaches and Tradeoffs
+
+## Rules vs Principles
+In [Warzel19](https://www.nytimes.com/2019/06/08/opinion/technology/youtube-crowder-vox-harassment-debate.html) Charlie Warzel and Sarah Jeong discuss principle-based and rule-based moderation, and Jeong says "The end result is that YouTube loses all trust, makes almost nobody happy and basically only empowers the worst actors by giving them more reason to have grievances. Even when YouTube does try to explain the logic to its rules, as it eventually did this week, it inadvertently lays out a map for how bad actors can sidestep takedowns, giving bad faith creators workarounds to harass or profit off bigotry. You know you’re in a real dark place when the good decisions YouTube makes are equally troubling."
+
+
+## Incentives
+[Warzel19](https://www.nytimes.com/2019/06/08/opinion/technology/youtube-crowder-vox-harassment-debate.html) also discusses how the YouTube incentive system plays a part in the problem, as creators are incented to create viral content, which can often be viral because it's offensive in some way.
