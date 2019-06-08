@@ -113,6 +113,8 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 
 [Velasquez09] Manuel Velasquez, Dennis Moberg, Michael J. Meyer, Thomas Shanks, Margaret R. McLean, David DeCosse, Claire André, and Kirk O. Hanson, "[A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/a-framework-for-ethical-decision-making/)" May, 2009 or Aug 2015 (both dates are shown)
 
+[Warzel19] harlie Warzel and Sarah Jeong, "[YouTube Is a Very Bad Judge and Jury](https://www.nytimes.com/2019/06/08/opinion/technology/youtube-crowder-vox-harassment-debate.html), New York Times,  June 8, 2019.
+
 [Watercutter19] Angela Watercutter, "[ROTTEN TOMATOES' REVAMP COULD SAVE CAPTAIN MARVEL](https://www.wired.com/story/rotten-tomatoes-captain-marvel-trolls/)" Wired, February 25, 2019
 
 [Zimmerman19]  Annette Zimmermann and Bendert Zevenbergen, "[AI Ethics: Seven Traps](https://freedom-to-tinker.com/2019/03/25/ai-ethics-seven-traps/)" Freedom To Tinker blog, March 26, 2019
