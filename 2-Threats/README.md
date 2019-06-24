@@ -19,6 +19,9 @@ Conflict over images seems to run eternal.  From Nazi flags to nipples, image co
      1. Full nudity with consent of the model
      2. breasts/breastfeeding/female-presenting breasts
      3. Lack of burqa or other covering
+     4. Unclothed children
+          a. In art (eg, Led Zeppelin Houses of the Holy album cover; Ruebens, The Holy Family with Saints Francis and Anne and the Infant Saint John the Baptist)
+          b. In family photos
 2. Symbols
      1. Swastikas (banned in Germany, offensive in other places, sacred to Hindus)
      2. Controversial (eg, Confederate flags)
