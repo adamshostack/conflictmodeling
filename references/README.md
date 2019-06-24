@@ -12,6 +12,8 @@ Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.or
 
 [Bail18] Bail, Charles, "[Twitter’s Flawed Solution to Political Polarization](https://www.nytimes.com/2018/09/08/opinion/sunday/twitter-political-polarization.html)", New York Times, Sept 8, 2018.  (Inserting opposing view information may increase polarization.)
 
+[Beaumont-Thomas] Ben Beaumont-Thomas, [Facebook reverses ban on Led Zeppelin album cover featuring naked children](https://www.theguardian.com/music/2019/jun/21/facebook-reverses-ban-on-led-zeppelin-album-cover-featuring-naked-children), The Guardian, 21 Jun 2019
+
 [Bowles18] Bowles, Nellie, "[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)", New York Times, June 23, 2018
 
 [Brown16] Brown, Kristen V., "[Instagram's new moderation policy is exactly how we should handle abuse on the internet](Thermostats, Locks and Lights: Digital Tools of Domestic Abuse)", Splinter, September 15, 2016
