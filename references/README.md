@@ -8,6 +8,8 @@ without jumping to a table, which labels like "[15]" lack.
 [Amnesty18] Amnesty International, [Troll Patrol Findings: Using Crowdsourcing, Data Science & Machine Learning to
 Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.org/projects/troll-patrol/findings), December 2018.  Used 2500 hours of volunteer time to label 288,000 tweets "mentioning 778 women politicians and journalist sin the UK and US" for problematic and abusive content for type of content (racism, threats, etc) in text, image or video)
 
+[Apuzzo] Matt Apuzzo, [Europe Built a System to Fight Russian Meddling. It’s Struggling.](https://www.nytimes.com/2019/07/06/world/europe/europe-russian-disinformation-propaganda-elections.html) New York Times, July 6, 2019
+
 [OpenAI19] OpenAI Institute, [Better Language Models and Their Implications](https://blog.openai.com/better-language-models/#sample8) February 14, 2019
 
 [Bail18] Bail, Charles, "[Twitter’s Flawed Solution to Political Polarization](https://www.nytimes.com/2018/09/08/opinion/sunday/twitter-political-polarization.html)", New York Times, Sept 8, 2018.  (Inserting opposing view information may increase polarization.)
@@ -69,6 +71,8 @@ which seems a bit odd given the nom de plume.)
 [Matsakis18] Matsakis, Louise, "[HOW PRO-EATING DISORDER POSTS EVADE FILTERS ON SOCIAL MEDIA]( https://www.wired.com/story/how-pro-eating-disorder-posts-evade-social-media-filters/)" June 13, 2018
 
 [Modan19] Naaz Modan, [GOOD NEWS ALERT: CAIR Welcomes Amazon’s Removal of Doormats, Bath Mats with Islamic Religious Text](https://www.cair.com/good_news_alert_cair_welcomes_amazon_s_removal_of_doormats_bath_mats_with_islamic_religious_text), Council on American-Islamic Relations, press release January 4, 2019
+
+[Murphy19] Hannah Murphy, [Inside Facebook’s information warfare team](https://t.co/YOohHoJA7x) Financial Times, July 6, 2019.  May be paywalled.  Details include a focus on information operations, and that for content takedowns, the content must be "inauthentic" (Facebook's word) in that "users are misrepresenting themselves for the purposes of manipulating public debate, for example" and that the efforts are co-ordinated "in some way." Takedowns are subject to review by "a team of 10 to 20 Facebook executives who must decide if the bad actors have indeed violated Facebook’s policies."  "Facebook is careful to remain apolitical and to avoid inferring what the precise motivations of a bad actor may be" (Additional quotes are FT, not Facebook) 
 
 [Newton19] Casey Newton, "[THE TRAUMA FLOOR](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)" The Verge, Feb 25, 2019
 
