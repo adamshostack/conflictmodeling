@@ -115,6 +115,8 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 
 [Stamos18] Stamos, Alex, [untitled presentation](https://www.facebook.com/FacebookforDevelopers/videos/10155607404583553/) F8 Conference, May 1, 2018 
 
+[Steinmetz] Katy Steinmetz, [Inside Instagram's War on Bullying](https://time.com/5619999/instagram-mosseri-bullying-artificial-intelligence/) Time, July 8, 2019
+
 [Thomspon18] Thompson, Nicholas, "[Exclusive: Facebook Opens Up About False News](https://www.wired.com/story/exclusive-facebook-opens-up-about-false-news/)", Wired, May 23, 2018
 
 [Velasquez09] Manuel Velasquez, Dennis Moberg, Michael J. Meyer, Thomas Shanks, Margaret R. McLean, David DeCosse, Claire André, and Kirk O. Hanson, "[A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/a-framework-for-ethical-decision-making/)" May, 2009 or Aug 2015 (both dates are shown)
