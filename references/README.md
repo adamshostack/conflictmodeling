@@ -70,6 +70,8 @@ which seems a bit odd given the nom de plume.)
 
 [Matsakis18] Matsakis, Louise, "[HOW PRO-EATING DISORDER POSTS EVADE FILTERS ON SOCIAL MEDIA]( https://www.wired.com/story/how-pro-eating-disorder-posts-evade-social-media-filters/)" June 13, 2018
 
+[Metzinger] Thomas Metzinger, [Ethics washing made in Europe](https://m.tagesspiegel.de/politik/eu-guidelines-ethics-washing-made-in-europe/24195496.html), Der Tagesspiegel, April 4, 2019.  Presents an interesting history and strong critique of an AI ethics process and its resultant document.  The concerns that he raises could well apply in this area.
+
 [Modan19] Naaz Modan, [GOOD NEWS ALERT: CAIR Welcomes Amazon’s Removal of Doormats, Bath Mats with Islamic Religious Text](https://www.cair.com/good_news_alert_cair_welcomes_amazon_s_removal_of_doormats_bath_mats_with_islamic_religious_text), Council on American-Islamic Relations, press release January 4, 2019
 
 [Murphy19] Hannah Murphy, [Inside Facebook’s information warfare team](https://t.co/YOohHoJA7x) Financial Times, July 6, 2019.  May be paywalled.  Details include a focus on information operations, and that for content takedowns, the content must be "inauthentic" (Facebook's word) in that "users are misrepresenting themselves for the purposes of manipulating public debate, for example" and that the efforts are co-ordinated "in some way." Takedowns are subject to review by "a team of 10 to 20 Facebook executives who must decide if the bad actors have indeed violated Facebook’s policies."  "Facebook is careful to remain apolitical and to avoid inferring what the precise motivations of a bad actor may be" (Additional quotes are FT, not Facebook) 
@@ -101,6 +103,8 @@ https://docs.google.com/presentation/d/1JB3bTbJvjEypKlPu1JKV20Oz9YlF5zRCl3vLIPdD
 [Rosen19] Guy Rosen, "[A Further Update on New Zealand Terrorist Attack](https://newsroom.fb.com/news/2019/03/technical-update-on-new-zealand/)", Facebook blog post, March 21, 2019
 
 [SantaClaraLetter] Various "[An Open Letter to Mark Zuckerberg](https://santaclaraprinciples.org/open-letter/)"  November 13, 2018.  Calls for notice, appeals, and numbers in content moderation.
+
+[Schwab] Katharine Schwab, [The fight to regulate dangerous design is heating up](https://www.fastcompany.com/90335048/the-fight-to-regulate-dangerous-design-is-heating-up) Fast Company, April 16, 2019.  Dangerous design and dark patterns feel like an adjacent area to conflict modeling, but perhaps there are strong overlaps.  Follow the links to the ICO office.
 
 [Selinger19] Evan Selinger, "[How Middle School Subverted Instagram’s Slider Emoji Tool](https://onezero.medium.com/instagrams-new-slider-emoji-is-now-a-bullying-tool-9f8cdf55a5f3)", Medium OneZero, March 4, 2019
 
