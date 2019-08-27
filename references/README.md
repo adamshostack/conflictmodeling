@@ -16,6 +16,8 @@ Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.or
 
 [Beaumont-Thomas] Ben Beaumont-Thomas, [Facebook reverses ban on Led Zeppelin album cover featuring naked children](https://www.theguardian.com/music/2019/jun/21/facebook-reverses-ban-on-led-zeppelin-album-cover-featuring-naked-children), The Guardian, 21 Jun 2019
 
+[Blackwell] Lindsay Blackwell, Tianying Chen, Sarita Schoenebeck, Cliff Lampe [When Online Harassment is Perceived as Justified](http://www.lindsayblackwell.net/wp-content/uploads/2018/04/When-Online-Harassment-is-Perceived-as-Justified-ICWSM18.pdf), THE 12TH INTERNATIONAL AAAI CONFERENCE ON WEB AND SOCIAL MEDIA (ICWSM-18) June, 2018
+
 [Bowles18] Bowles, Nellie, "[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)", New York Times, June 23, 2018
 
 [Brown16] Brown, Kristen V., "[Instagram's new moderation policy is exactly how we should handle abuse on the internet](Thermostats, Locks and Lights: Digital Tools of Domestic Abuse)", Splinter, September 15, 2016
