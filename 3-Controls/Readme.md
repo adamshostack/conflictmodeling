@@ -8,3 +8,6 @@ In [Warzel19](https://www.nytimes.com/2019/06/08/opinion/technology/youtube-crow
 
 ## Incentives
 [Warzel19](https://www.nytimes.com/2019/06/08/opinion/technology/youtube-crowder-vox-harassment-debate.html) also discusses how the YouTube incentive system plays a part in the problem, as creators are incented to create viral content, which can often be viral because it's offensive in some way.
+
+## Testing
+Google has released datasets for testing voice cloning and deepfake video.  ([Advancing research on fake audio detection](https://www.blog.google/outreach-initiatives/google-news-initiative/advancing-research-fake-audio-detection/) refers to a discipline of automatic speaker verification; [Contributing Data to Deepfake Detection Research](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html) is their dataset & blog on deepfakes.)
