@@ -24,6 +24,8 @@ Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.or
 
 [Cade18], Cade, [On Weaponised Design](https://ourdataourselves.tacticaltech.org/posts/30-on-weaponised-design/) Tactical Tech, December 2018
 
+[Cohen], Ben Cohen, Georgia Wells and Tom McGinty, [How One Tweet Turned Pro-China Trolls Against the NBA](https://www.wsj.com/articles/how-one-tweet-turned-pro-china-trolls-against-the-nba-11571238943) Wall St Journal, October 16, 2019.  Fascinating specifics about new and never-before-active twitter accounts. See also [twitter thread](https://mobile.twitter.com/DarrenLinvill/status/1184617074888445952?p=v)
+
 [Derakhshan18] Derakhshan, Hossein, "[Information Disorder](https://docs.google.com/file/d/0B1ubBeZhttC4SVBvUTZwZWEtdTRrYjRhRl96RjZLcjRVZFlz/edit?filetype=mspresentation)", undated presentation
 
 [Dzieza18], Dzieza, Josh, [Prime and Punishment: Dirty Dealing in the $175 Billion Amazon Marketplace](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement), Verge, December 19, 2018.  Discusses fake reviews being bought for competitors to trigger enforcement; how the enforcement mechanisms at Amazon appear from a seller's perspective.
