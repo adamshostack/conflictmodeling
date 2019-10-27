@@ -121,6 +121,8 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 
 [Sierra14] Kathy Sierra, "[Trouble at the Koolaid Point](http://seriouspony.com/trouble-at-the-koolaid-point)" October 7 2014.  
 
+[Sisson] Christye Sisson, [I create fake videos. Here’s why people believe even the obvious ones](https://www.fastcompany.com/90404007/i-create-fake-videos-heres-why-people-believe-even-the-obvious-ones), Fast Company September 14, 2019
+
 [Stamos18] Stamos, Alex, [untitled presentation](https://www.facebook.com/FacebookforDevelopers/videos/10155607404583553/) F8 Conference, May 1, 2018 
 
 [Steinmetz] Katy Steinmetz, [Inside Instagram's War on Bullying](https://time.com/5619999/instagram-mosseri-bullying-artificial-intelligence/) Time, July 8, 2019
