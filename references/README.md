@@ -28,6 +28,8 @@ Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.or
 
 [Derakhshan18] Derakhshan, Hossein, "[Information Disorder](https://docs.google.com/file/d/0B1ubBeZhttC4SVBvUTZwZWEtdTRrYjRhRl96RjZLcjRVZFlz/edit?filetype=mspresentation)", undated presentation
 
+[Djudjic]  Dunja Djudjic, [Instagram now uses AI to shame you before you post bullying or offensive captions](https://www.diyphotography.net/instagram-now-uses-ai-to-shame-you-before-you-post-bullying-or-offensive-captions/) DIYPhotogrpahy, December 17, 2019
+
 [Dzieza18], Dzieza, Josh, [Prime and Punishment: Dirty Dealing in the $175 Billion Amazon Marketplace](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement), Verge, December 19, 2018.  Discusses fake reviews being bought for competitors to trigger enforcement; how the enforcement mechanisms at Amazon appear from a seller's perspective.
 
 [EFF19] "[TOSsed Out](https://www.eff.org/tossedout)," Electronic Frontier Foundation.  (Undated; no author, but EFF board member Cory Doctorow [says](https://boingboing.net/2019/05/20/moderation-at-scale-2.html) "new" as of May 20, 2019.
