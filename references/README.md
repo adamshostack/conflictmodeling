@@ -131,6 +131,8 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 
 [Thomspon18] Thompson, Nicholas, "[Exclusive: Facebook Opens Up About False News](https://www.wired.com/story/exclusive-facebook-opens-up-about-false-news/)", Wired, May 23, 2018
 
+[Twitter2020] oel Roth and Ashita Achuthan, [Building rules in public: Our approach to synthetic & manipulated media](https://blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html) Blog post, Twitter, February 4, 2020
+
 [Velasquez09] Manuel Velasquez, Dennis Moberg, Michael J. Meyer, Thomas Shanks, Margaret R. McLean, David DeCosse, Claire André, and Kirk O. Hanson, "[A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/a-framework-for-ethical-decision-making/)" May, 2009 or Aug 2015 (both dates are shown)
 
 [Warzel19] Charlie Warzel and Sarah Jeong, [YouTube Is a Very Bad Judge and Jury](https://www.nytimes.com/2019/06/08/opinion/technology/youtube-crowder-vox-harassment-debate.html), New York Times,  June 8, 2019.
