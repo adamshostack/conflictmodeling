@@ -135,6 +135,8 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 
 [Velasquez09] Manuel Velasquez, Dennis Moberg, Michael J. Meyer, Thomas Shanks, Margaret R. McLean, David DeCosse, Claire André, and Kirk O. Hanson, "[A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/a-framework-for-ethical-decision-making/)" May, 2009 or Aug 2015 (both dates are shown)
 
+[Wardle] Claire Wardle, [Information disorder: ‘The techniques we saw in 2016 have evolved’](Information disorder: ‘The techniques we saw in 2016 have evolved’](https://firstdraftnews.org/latest/information-disorder-the-techniques-we-saw-in-2016-have-evolved/) "First Draft", October 21, 2019
+
 [Warzel19] Charlie Warzel and Sarah Jeong, [YouTube Is a Very Bad Judge and Jury](https://www.nytimes.com/2019/06/08/opinion/technology/youtube-crowder-vox-harassment-debate.html), New York Times,  June 8, 2019.
 
 [Watercutter19] Angela Watercutter, "[ROTTEN TOMATOES' REVAMP COULD SAVE CAPTAIN MARVEL](https://www.wired.com/story/rotten-tomatoes-captain-marvel-trolls/)" Wired, February 25, 2019
