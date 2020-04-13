@@ -12,6 +12,16 @@ uncommon in interpersonal conflict.
 ##  Unintented Platform Effects on User Behaviour
 Unintended consecounces of platform structure and capabilities. The structure of an online/social platform has the ability to influnce the behaviour of it's users. An example of that is the echo chamber where users are only shown content which agrees to their sensibilities. This makes the users more suseptable to different attacks.
 
+# A taxonomy of mis- and disinformation
+
+* Fabricated content
+* Manipulated content
+* Imposter content
+* False content
+* Misleading content
+* False connection
+* Satire or parody
+
 # A taxonomy of images
 Conflict over images seems to run eternal.  From Nazi flags to nipples, image content is a constant battlefield.  This list is to provoke thinking about the range of issues presented with images, not to suggest solutions.
 
