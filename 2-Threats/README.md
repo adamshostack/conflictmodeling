@@ -98,24 +98,35 @@ In their [release of the GPT-2 language module](https://blog.openai.com/better-l
     3. False Facts - Confident assertion of false information
     4. False Narratives - the use of false information and arguments to influnce public/user opinion.
    
-## Bullying
 
-There's quite a lot on cyber-bullying and it would be helpful to have a catalog or at least pointers
 
-## A taxonomy by actor
-
-## #Interpersonal attacks
-(This is very, very incomplete)
-
-Attacks: race, religion, sex, threats, politics, trolling, revenge, harrassment, libel.
+## By topic area
+     1. Interpersonal attacks
+     2. Attacks by nation states
+     
+Attacks: 
+     * race
+     * religion
+     * sex &/or gender
+     * threats
+     * politics
+     * trolling
+     * revenge
+     * harrassment
+     * libel.
 Attacks outside the US might also include lesse-Majeste, blasphemy, or political advocacy.
 
-### Attacks by nation states
 
-#### Fake news
+
+
+ 
+
+## Stubs to be expanded
+
+### Fake news
 There's work to mine by at least Kate Starbird and Craig Silverman.
 
-#### Elections 
+### Elections 
 At Facebook's F8 Conference in 2018, Alex Stamos presented a taxomony:  
 
 * Attacks on knowledge including amplification of fake messages
@@ -123,4 +134,6 @@ At Facebook's F8 Conference in 2018, Alex Stamos presented a taxomony:
 * attempts to disenfranchise/reduce turnout
 * attempts to confuse votres to vote for a different candidate
 
- 
+### Bullying
+
+There's quite a lot on cyber-bullying and it would be helpful to have a catalog or at least pointers
