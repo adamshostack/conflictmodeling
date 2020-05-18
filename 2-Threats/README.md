@@ -12,7 +12,19 @@ uncommon in interpersonal conflict.
 ##  Unintented Platform Effects on User Behaviour
 Unintended consecounces of platform structure and capabilities. The structure of an online/social platform has the ability to influnce the behaviour of it's users. An example of that is the echo chamber where users are only shown content which agrees to their sensibilities. This makes the users more suseptable to different attacks.
 
-# A taxonomy of mis- and disinformation
+# Ways of thinking about the problem
+
+There are a lot of ways of conceptualizing the threats in this space, and none are inherently better than others. This page currently includes:
+
+1. Misinformation/disinformation
+2. Image-centric analysis
+3. Text and words
+4. Fake content (which is broader than mis-information)
+5. Bullying
+6. An actor-centric approach
+
+## Misinformation/Disinformation
+A taxonomy of mis- and disinformation:
 
 * Fabricated content
 * Manipulated content
@@ -22,9 +34,10 @@ Unintended consecounces of platform structure and capabilities. The structure of
 * False connection
 * Satire or parody
 
-# A taxonomy of images
+## Image-centric analysis
 Conflict over images seems to run eternal.  From Nazi flags to nipples, image content is a constant battlefield.  This list is to provoke thinking about the range of issues presented with images, not to suggest solutions.
 
+A taxonomy of images
 1. Clothing/lack thereof
      1. Full nudity with consent of the model
      2. breasts/breastfeeding/female-presenting breasts
@@ -51,7 +64,7 @@ Conflict over images seems to run eternal.  From Nazi flags to nipples, image co
      1. Copyright violations
      2. Lese-Majeste
 
-# The Pen Is Mightier Than The Sword
+## Text and Words: The Pen Is Mightier Than The Sword
 Words can be used for nearly any purpose, and considering the ways in which they can be used to hurt seems a nearly endless process.  Words can either carry hurtful meanings ("You should be killed") or harmful content ("evil.org/infectme.html", "malware.zip").
 
 * Imitation/impersonation
@@ -64,7 +77,7 @@ Words can be used for nearly any purpose, and considering the ways in which they
 * Harassment
 
 
-## AI Driven text
+### AI Driven text
 Quantity has its own qualities.  Being able to scale to a very high volume of fake text can enable an attacker to overwhelm a discussion, drive out human conversation with either spam or apparently relevant content. In combination with fake accounts, it can tap into mechanisms like social proof, and make it appear that many people hold the view that the AI is espousing.  Even with a single account, it can generate so much text that it's impossible for a person to parse or respond to it all.  This can be a [Gish Gallop](https://en.wikipedia.org/wiki/Gish_gallop) on steroids.
 
 In their [release of the GPT-2 language module](https://blog.openai.com/better-language-models/) the OpenAI institute flags the following issues:
@@ -79,28 +92,30 @@ In their [release of the GPT-2 language module](https://blog.openai.com/better-l
 
 
 
-# Fake content
+## Fake content
     1. Fake Identities - used to conceal / spoof identities
     2. Fake Audiences - used to fake level of support and social validation
     3. False Facts - Confident assertion of false information
     4. False Narratives - the use of false information and arguments to influnce public/user opinion.
    
+## Bullying
 
+There's quite a lot on cyber-bullying and it would be helpful to have a catalog or at least pointers
 
-# A taxonomy by actor
+## A taxonomy by actor
 
-## Interpersonal attacks
+## #Interpersonal attacks
 (This is very, very incomplete)
 
 Attacks: race, religion, sex, threats, politics, trolling, revenge, harrassment, libel.
 Attacks outside the US might also include lesse-Majeste, blasphemy, or political advocacy.
 
-## Attacks by nation states
+### Attacks by nation states
 
-### Fake news
+#### Fake news
 There's work to mine by at least Kate Starbird and Craig Silverman.
 
-### Elections 
+#### Elections 
 At Facebook's F8 Conference in 2018, Alex Stamos presented a taxomony:  
 
 * Attacks on knowledge including amplification of fake messages
