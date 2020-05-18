@@ -82,6 +82,8 @@ which seems a bit odd given the nom de plume.)
 
 [Murphy19] Hannah Murphy, [Inside Facebook’s information warfare team](https://t.co/YOohHoJA7x) Financial Times, July 6, 2019.  May be paywalled.  Details include a focus on information operations, and that for content takedowns, the content must be "inauthentic" (Facebook's word) in that "users are misrepresenting themselves for the purposes of manipulating public debate, for example" and that the efforts are co-ordinated "in some way." Takedowns are subject to review by "a team of 10 to 20 Facebook executives who must decide if the bad actors have indeed violated Facebook’s policies."  "Facebook is careful to remain apolitical and to avoid inferring what the precise motivations of a bad actor may be" (Additional quotes are FT, not Facebook) 
 
+[Natanson] Hannah Natanson, [After online learning flopped, Fairfax schools switched to Google. More virtual harassment followed.](https://www.washingtonpost.com/local/education/after-online-learning-flopped-fairfax-schools-switched-to-google-more-virtual-harassment-followed/2020/05/16/728ecb1e-9449-11ea-91d7-cf4423d47683_story.html) Washington Post, May 16, 2020. Describes a rapid switch, misconfiguration, missing features, lack of auditability amongst other problems. Good intro.
+
 [Newton19] Casey Newton, "[THE TRAUMA FLOOR](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)" The Verge, Feb 25, 2019
 
 [Ng18] Ng, Alfred, "[Inside Facebook, Twitter and Google's AI battle
