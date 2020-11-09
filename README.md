@@ -27,8 +27,11 @@ the tools that are being used, discuss the tradeoffs, and offer a
 resource for engineers and managers taking on these complex
 descisions.
 
+Shown below are two screenshots from Yelp, the first from 2020 (Four Seasons Total Landscape)
+
 ![A 2020 screenshot from Yelp](https://raw.githubusercontent.com/adamshostack/conflictmodeling/master/images/yelp-2.png)
 
+The second from 2018 (Red Hen Restaurant)
 
 ![A 2018 screenshot from Yelp](https://raw.githubusercontent.com/adamshostack/conflictmodeling/master/images/RedHen.png)
 
