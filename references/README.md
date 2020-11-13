@@ -28,6 +28,8 @@ Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.or
 
 [Derakhshan18] Derakhshan, Hossein, "[Information Disorder](https://docs.google.com/file/d/0B1ubBeZhttC4SVBvUTZwZWEtdTRrYjRhRl96RjZLcjRVZFlz/edit?filetype=mspresentation)", undated presentation
 
+[Dias] Avani Dias, Ange McCormack and Ali Russell, [Bumble changes 'unmatch' feature to protect users following Hack and Four Corners investigation](https://www.abc.net.au/triplej/programs/hack/bumble-changes-unmatch-function-hack-four-corners/12873516), November 12, 2020, 
+
 [Djudjic]  Dunja Djudjic, [Instagram now uses AI to shame you before you post bullying or offensive captions](https://www.diyphotography.net/instagram-now-uses-ai-to-shame-you-before-you-post-bullying-or-offensive-captions/) DIYPhotogrpahy, December 17, 2019
 
 [Dzieza18], Dzieza, Josh, [Prime and Punishment: Dirty Dealing in the $175 Billion Amazon Marketplace](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement), Verge, December 19, 2018.  Discusses fake reviews being bought for competitors to trigger enforcement; how the enforcement mechanisms at Amazon appear from a seller's perspective.
