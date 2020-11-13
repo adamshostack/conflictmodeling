@@ -75,7 +75,7 @@ Words can be used for nearly any purpose, and considering the ways in which they
 * Abuse
 * Threats
 * Harassment
-
+* Message deletion by senders (unsend, recall can be [used](https://www.abc.net.au/triplej/programs/hack/bumble-changes-unmatch-function-hack-four-corners/12873516) by a perpetrator.)
 
 ### AI Driven text
 Quantity has its own qualities.  Being able to scale to a very high volume of fake text can enable an attacker to overwhelm a discussion, drive out human conversation with either spam or apparently relevant content. In combination with fake accounts, it can tap into mechanisms like social proof, and make it appear that many people hold the view that the AI is espousing.  Even with a single account, it can generate so much text that it's impossible for a person to parse or respond to it all.  This can be a [Gish Gallop](https://en.wikipedia.org/wiki/Gish_gallop) on steroids.
