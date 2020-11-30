@@ -152,6 +152,7 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 [Zraick18] Zraikck, Karen, "[Mark Zuckerberg Seeks to Clarify Remarks
 About Holocaust Deniers After Outcry](https://www.nytimes.com/2018/07/18/technology/mark-zuckerberg-facebook-holocaust-denial.html)" The New York Times, July 18, 2018
 
+Zuckerman20  Ethan Zuckerman & Chand Rajendra-Nicolucci [Local Logic: It's Not Always a Beautiful Day in the Neighborhood](https://knightcolumbia.org/content/local-logic-its-not-always-a-beautiful-day-in-the-neighborhood) November 30, 2020.
 
 [Zunger17] Zunger, Yonatan, "[Asking the Right Questions About AI](https://medium.com/@yonatanzunger/asking-the-right-questions-about-ai-7ed2d9820c48)", Blog post Oct 11, 2017 (Is a worthwhile read and has some provocative test cases about
 setting rules, search for "Christ.")
