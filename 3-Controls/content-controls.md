@@ -11,7 +11,7 @@ Choices you have include, but are not limited to:
 6. Reporting systems (Reactive)
 7. Rate limiting
 
-**NOTE:** The problem with this page is that these controls can also be used on combination to each other and not just individual seperate controls. They have to be part of a cohesive strategy.
+**NOTE:** The problem with this page is that these controls can also be used on combination to each other and not just individual seperate controls. They have to be part of a cohesive strategy. One description of a strategy is in Zuckerman's description of Front Porch (2020).
 
 
 
