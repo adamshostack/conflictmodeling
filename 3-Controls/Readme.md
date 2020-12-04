@@ -11,3 +11,6 @@ In [Warzel19](https://www.nytimes.com/2019/06/08/opinion/technology/youtube-crow
 
 ## Testing
 Google has released datasets for testing voice cloning and deepfake video.  ([Advancing research on fake audio detection](https://www.blog.google/outreach-initiatives/google-news-initiative/advancing-research-fake-audio-detection/) refers to a discipline of automatic speaker verification; [Contributing Data to Deepfake Detection Research](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html) is their dataset & blog on deepfakes.)
+
+## Reducing Bias in ML
+Amazon has released an interesting approach in [Mitigating social bias in knowledge graph embeddings](https://www.amazon.science/blog/mitigating-social-bias-in-knowledge-graph-embeddings) (Fisher, 2020)
