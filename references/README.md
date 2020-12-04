@@ -36,6 +36,8 @@ Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.or
 
 [EFF19] "[TOSsed Out](https://www.eff.org/tossedout)," Electronic Frontier Foundation.  (Undated; no author, but EFF board member Cory Doctorow [says](https://boingboing.net/2019/05/20/moderation-at-scale-2.html) "new" as of May 20, 2019.
 
+[Fisher] Joseph Fisher, [https://www.amazon.science/blog/mitigating-social-bias-in-knowledge-graph-embeddings](https://www.amazon.science/blog/mitigating-social-bias-in-knowledge-graph-embeddings) Amazon Science, November 25, 2020
+
 [Goel18] Goel, Vindu and Raj, Suhasini and Ravichandran,
 Priyadarshini, "[How WhatsApp Leads Mobs to Murder in
 India](https://www.nytimes.com/interactive/2018/07/18/technology/whatsapp-india-killings.html)"
