@@ -18,7 +18,7 @@ Choices you have include, but are not limited to:
 ## Automated Response - AI/ML & Business Logic
 With billions of users one thing that needs to be factored in is automation and business logic that balances user experience with, with the identification of fake/harmeful content.
 
-The objective is to feed an ML model various signals in order to react to specific content i.e. either tag content for further review or provide soft challenges (rate throtteling / captcha / ID&V etc..) or preventative controls - banning account, blocking content, etc..
+The objective is to feed an ML model various signals in order to react to specific content i.e. either tag content for further review or provide soft challenges (rate throtteling / captcha / ID&V etc..) or preventative controls - banning account, blocking content, etc... There's a 2018 [A Survey on Automatic Detection of Hate Speech in Text](https://dl.acm.org/doi/10.1145/3232676). 
 
 Various aspects can be factored in such as political turmoil or upcomming elections as some of these issues changes depending on the date.
 
