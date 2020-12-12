@@ -38,6 +38,8 @@ Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.or
 
 [Fisher] Joseph Fisher, [https://www.amazon.science/blog/mitigating-social-bias-in-knowledge-graph-embeddings](https://www.amazon.science/blog/mitigating-social-bias-in-knowledge-graph-embeddings) Amazon Science, November 25, 2020
 
+Paula Fortuna and Sérgio Nunes. 2018. A Survey on Automatic Detection of Hate Speech in Text. ACM Comput. Surv. 51, 4, Article 85 (September 2018), 30 pages. DOI:https://doi.org/10.1145/3232676
+
 [Goel18] Goel, Vindu and Raj, Suhasini and Ravichandran,
 Priyadarshini, "[How WhatsApp Leads Mobs to Murder in
 India](https://www.nytimes.com/interactive/2018/07/18/technology/whatsapp-india-killings.html)"
