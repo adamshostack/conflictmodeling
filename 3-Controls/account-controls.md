@@ -9,6 +9,9 @@ Decisions to be made include:
 3. Transparency. How much of what happens in review is specified for the public?  More transparency may lead to gaming; less leads to confusion, accusations of Kafka-esque process.
 4. Appeals. What's the normal process? What's the escalation process when a very public account gets flagged (eg, President Trump violating Twitter rules regarding threats?)
 
+## Legal Name Policies ("real names")
+
+There's a belief that no one would troll or post lies under their real name. It turns out that this is not true. See [The Real Name Fallacy](https://coralproject.net/blog/the-real-name-fallacy/), or [Internet trolls are even more hostile when they’re using their real names, a study finds](https://qz.com/741933/internet-trolls-are-even-more-hostile-when-theyre-using-their-real-names-a-study-finds/)
 
 ## Know your customer/user
 For promoted/paid content (such as adverts) there can be an identification/validation (This is sold as "ID&V") process and at the very least before the automation of putting out paid content. 
