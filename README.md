@@ -1,4 +1,4 @@
-# Conflict Modeling
+# Threat Modeling for Disinformation and Conflict
 A place to gather and organize information about using threat modeling
 frameworks to deal with social conflict in online systems.  Businesses
 are named here soley to make discussion concrete, not to criticise
