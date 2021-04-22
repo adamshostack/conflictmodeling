@@ -28,6 +28,9 @@ Content does not have to be viewed in a vacuum.  There are signals in not only c
 Provide transparency and visibility to the users of content authenticity and challenges to false narratives. Also the user to request to make these cues more (or less) visibile. This includes providing visibile cues that the content of verious categories e.g. the ability to distinguish if the content is from an official news source, a promoted ad, an opinion piece etc..  
 **NOTE:** I personally would like to know if the content I am seeing is an untampered news article, an opinion piece (which news sites do a poor job at tagging consistently) Official public Statements (press releases) vs. public/user generated content.
 
+## Controls applied to contact requests
+Instagram has [applied](https://about.instagram.com/blog/announcements/introducing-new-tools-to-protect-our-community-from-abuse) a different set of controls to DM requests (that is, people who are not already your contacts), claiming they are a frequent source of abuse.
+
 ## Behaviour Based Controls
 Analysis of user behaviour of the account posting the content, added as a signel to either an ML model or for an analyst to investigate.
 
