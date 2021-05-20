@@ -20,7 +20,7 @@ With billions of users one thing that needs to be factored in is automation and 
 
 The objective is to feed an ML model various signals in order to react to specific content i.e. either tag content for further review or provide soft challenges (rate throtteling / captcha / ID&V etc..) or preventative controls - banning account, blocking content, etc... There's a 2018 [A Survey on Automatic Detection of Hate Speech in Text](https://dl.acm.org/doi/10.1145/3232676). 
 
-Various aspects can be factored in such as political turmoil or upcomming elections as some of these issues changes depending on the date.
+Various aspects can be factored in such as political turmoil or upcomming elections as some of these issues changes depending on the date. In May 2021, the Center for Democracy and Technology released an extensive report, [Do You See what I See](https://cdt.org/wp-content/uploads/2021/05/2021-05-18-Do-You-See-What-I-See-Capabilities-Limits-of-Automated-Multimedia-Content-Analysis-Full-Report-2033-FINAL.pdf), outlining issues with automated content analysis tools. It covers how matching and predictive models have limitations including robustness, data quality, lack of context, measurability, and explainability.
 
 Content does not have to be viewed in a vacuum.  There are signals in not only content and publisher, but also the relationships between content, publisher and promotors.  See [Shu19](https://blog.acolyer.org/2019/02/13/beyond-news-contents-the-role-of-social-context-for-fake-news-detection/)
 
