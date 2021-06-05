@@ -21,9 +21,12 @@ There are a lot of ways of conceptualizing the threats in this space, and none a
 2. Text and words
 3. Fake content (which is broader than mis-information)
 4. Bullying
-5. An actor-centric approach
+   i. Online hate, harrassment and abuse
+   ii. Harrassment of researchers
+6. An actor-centric approach
 
-
+# Text threats
+Text driven threats are now in their own [page](text.md)
 
 # Images
 Conflict over images seems to run eternal.  From Nazi flags to nipples, image content is a constant battlefield.  This list is to provoke thinking about the range of issues presented with images, not to suggest solutions.
@@ -55,21 +58,9 @@ A taxonomy of images
      1. Copyright violations
      2. Lese-Majeste
 
-# Text threats
-Text driven threats are now in their own [page](text.md)
 
-## Harrassment of Researchers
-An academic paper, [I'm a Professor, which isn't usually a dangerous job": Internet-Facilitated Harassment and its Impact on Researchers](https://arxiv.org/abs/2104.11145) presents a summary of vectors through which their interviewees had been subjected to attacks including:
 
-* Academic (Censorship, Interference with career)
-* Cyber attack (Account compromise, Doxxing of researcher or family)
-* In-person (Demonstration, intimidation, verbal, weaponization of law enforcement)
-* Media (blogs, news sites, television)
-* Online Hate (4chan, email, facebook, twitter, youtube, zoom bombing)
-* Phone calls 
-* Reputational attacks (gotcha abiting, slander campaigns)
-* Snail mail (objects, letters, packages)
-* Threats (blackmail, physical vio
+
 
 
 # Fake content
@@ -96,9 +87,35 @@ Attacks:
      * libel.
 Attacks outside the US might also include lesse-Majeste, blasphemy, or political advocacy.
 
+# Bullying
 
+There's quite a lot on cyber-bullying and it would be helpful to have a catalog or at least pointers
 
+## Online Hate, Harrassment and Abuse
+An academic [paper](https://zakird.com/papers/abuse_sok.pdf) synthesized a wide set of research on the topic and created a taxonomy of:
 
+* Toxic content (including bullying, trolling, threats of violence, sexual harrassment, etc)
+* Content leakage (including doxing, sextortion, outing, leaked chats, etc)
+* Overloading (comment spam, dogpiling, ddos)
+* False reporting (Swatting, false abuse reporting)
+* Impersonation 
+* Surveillance (stalking, account monitoring, device monitoring)
+* Lockout and control
+
+(The list above is a sampling.)
+
+## Harrassment of Researchers
+An academic paper, [I'm a Professor, which isn't usually a dangerous job": Internet-Facilitated Harassment and its Impact on Researchers](https://arxiv.org/abs/2104.11145) presents a summary of vectors through which their interviewees had been subjected to attacks including:
+
+* Academic (Censorship, Interference with career)
+* Cyber attack (Account compromise, Doxxing of researcher or family)
+* In-person (Demonstration, intimidation, verbal, weaponization of law enforcement)
+* Media (blogs, news sites, television)
+* Online Hate (4chan, email, facebook, twitter, youtube, zoom bombing)
+* Phone calls 
+* Reputational attacks (gotcha abiting, slander campaigns)
+* Snail mail (objects, letters, packages)
+* Threats (blackmail, physical vio
  
 
 ## Stubs to be expanded
@@ -114,6 +131,4 @@ At Facebook's F8 Conference in 2018, Alex Stamos presented a taxomony:
 * attempts to disenfranchise/reduce turnout
 * attempts to confuse votres to vote for a different candidate
 
-### Bullying
 
-There's quite a lot on cyber-bullying and it would be helpful to have a catalog or at least pointers
