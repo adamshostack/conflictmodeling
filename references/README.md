@@ -143,6 +143,9 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 
 [Steinmetz] Katy Steinmetz, [Inside Instagram's War on Bullying](https://time.com/5619999/instagram-mosseri-bullying-artificial-intelligence/) Time, July 8, 2019
 
+[Thomas] Thomas, Kurt, Devdatta Akhawe, Michael Bailey, Dan Boneh, Elie Bursztein, Sunny Consolvo, Nicola Dell et al. [Sok: Hate, harassment, and the changing landscape of online abuse](https://zakird.com/papers/abuse_sok.pdf) In IEEE Symposium on Security & Privacy, 2021. 
+
+
 [Thomspon18] Thompson, Nicholas, "[Exclusive: Facebook Opens Up About False News](https://www.wired.com/story/exclusive-facebook-opens-up-about-false-news/)", Wired, May 23, 2018
 
 [Twitter2020] oel Roth and Ashita Achuthan, [Building rules in public: Our approach to synthetic & manipulated media](https://blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html) Blog post, Twitter, February 4, 2020
