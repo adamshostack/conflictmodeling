@@ -92,7 +92,7 @@ Attacks outside the US might also include lesse-Majeste, blasphemy, or political
 There's quite a lot on cyber-bullying and it would be helpful to have a catalog or at least pointers
 
 ## Online Hate, Harrassment and Abuse
-An academic [paper](https://zakird.com/papers/abuse_sok.pdf) synthesized a wide set of research on the topic and created a taxonomy of:
+An academic [Systemization of Knowledge paper](https://zakird.com/papers/abuse_sok.pdf) at IEEE Security & Privacy 2021 synthesized a wide set of research on the topic and created a taxonomy of:
 
 * Toxic content (including bullying, trolling, threats of violence, sexual harrassment, etc)
 * Content leakage (including doxing, sextortion, outing, leaked chats, etc)
@@ -115,8 +115,9 @@ An academic paper, [I'm a Professor, which isn't usually a dangerous job": Inter
 * Phone calls 
 * Reputational attacks (gotcha abiting, slander campaigns)
 * Snail mail (objects, letters, packages)
-* Threats (blackmail, physical vio
+* Threats (blackmail, physical violence)
  
+This work differs from the hate, harrassment and abuse work in that it is empirically derived from abuse experienced by participants, and those participants were all academics.
 
 ## Stubs to be expanded
 
