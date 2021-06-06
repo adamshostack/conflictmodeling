@@ -6,7 +6,7 @@ their choices.
 
 ## Frame 
 
-In 2018, it is very obvious that there are many problems with the way
+It is very obvious that there are many problems with the way
 people behave online, which various people have approached with names
 like "social threat modeling," or "conflict modeling."  This site is
 intended as a frame for thinking about and collaborating around
