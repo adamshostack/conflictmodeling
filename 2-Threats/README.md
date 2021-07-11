@@ -39,6 +39,7 @@ A taxonomy of images
      4. Unclothed children
           a. In art (eg, Led Zeppelin Houses of the Holy album cover; Ruebens, The Holy Family with Saints Francis and Anne and the Infant Saint John the Baptist)
           b. In family photos
+          c. Child abuse/child sexual abuse
 2. Symbols
      1. Swastikas (banned in Germany, offensive in other places, sacred to Hindus)
      2. Controversial (eg, Confederate flags)
@@ -47,8 +48,7 @@ A taxonomy of images
 3. Behavior/action
     1. Murder videos
     2. incitement to criminal acts/terror
-    3. Pornography (filmed/photographed)
-    4. Pornography (surreptitious/revenge)
+    3. Pornography (filmed/photographed with the consent of adult models, surreptitious/revenge, children/unwilling participants)
 4. Representations
     1. Racial stereotypes
     2. Religious stereotypes
