@@ -10,6 +10,7 @@ Choices you have include, but are not limited to:
 5. Threat Hunting (proactive) 
 6. Reporting systems (Reactive)
 7. Rate limiting
+8. Content dependent vs content oblivious strategies
 
 **NOTE:** The problem with this page is that these controls can also be used on combination to each other and not just individual seperate controls. They have to be part of a cohesive strategy. One description of a strategy is in Zuckerman's description of Front Porch (2020).
 
@@ -55,5 +56,6 @@ Pros: Stop the spread of fake news.
 
 Cons: Stop activists from organizing the next Arab Spring.  Suddenly popular accounts may be popular for positive reasons.
 
-
+## Content-dependent vs content oblivious
+In [Content-Oblivious Trust and Safety Techniques: Results from a Survey of Online Service Providers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3920031) Riana Pfefferkorn reports on a survey of 14 online service providers, and finds that in late 2021, abuse reporting systems are used more than other techniques.
 
