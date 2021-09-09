@@ -107,6 +107,8 @@ over your social lives](https://www.cnet.com/news/inside-facebook-twitter-and-go
 
 [Perez17] Sarah Perez, [Twitter quickly kills a poorly thought out anti-abuse measure](https://techcrunch.com/2017/02/14/twitter-quickly-kills-a-poorly-thought-out-anti-abuse-measure/), Techcrunch, Feb 14, 2017
 
+[Pfefferkorn] Riana Pfefferkorn [Content-Oblivious Trust and Safety Techniques: Results from a Survey of Online Service Providers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3920031) September 9, 2021
+
 [Phillips] Phillips, Whitney "[The Oxygen of Amplification](https://datasociety.net/output/oxygen-of-amplification/)" Data & Society, May 22, 2018  This is focused on editorial practice.
 
 [Pincus17] Pincus, Jon, "[Transforming Tech with Diversity-Friendly
