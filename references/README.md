@@ -55,6 +55,8 @@ The New York Times, July18, 2018
 [Chapter3](https://nyupress.org/netwars/pages/chapter03/ch03_02.html) covers how
 design issues led to conflict between AOL and Usenet.
 
+Alon Halevy, Cristian Canton-Ferrer, Hao Ma, Umut Ozertem, Patrick Pantel, Marzieh Saeidi, Fabrizio Silvestri, and Ves Stoyanov. 2022. Preserving integrity in online social networks. Commun. ACM 65, 2 (February 2022), 92–98. DOI:https://doi.org/10.1145/3462671 A fascinating overview of what Facebook labels 'integrity' 
+
 [Hao17] Hao, Karen, "[These simple design tricks can help diminish hate
 speech online](https://qz.com/1093804/these-simple-design-tricks-can-help-diminish-hate-speech-online/)", Quartz, October 11, 2017
 
