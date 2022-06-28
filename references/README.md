@@ -104,6 +104,8 @@ which seems a bit odd given the nom de plume.)
 
 [Newton19] Casey Newton, "[THE TRAUMA FLOOR](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)" The Verge, Feb 25, 2019
 
+[Nichol] Alex Nichol [DALL·E 2 Pre-Training Mitigations](https://openai.com/blog/dall-e-2-pre-training-mitigations/) OpenAI blog, June 28, 2022. OpenAI's process for selecting DALL-E training data.
+
 [Ng18] Ng, Alfred, "[Inside Facebook, Twitter and Google's AI battle
 over your social lives](https://www.cnet.com/news/inside-facebook-twitter-and-googles-ai-battle-over-your-social-lives/)", Cnet, July 17, 2018
 
