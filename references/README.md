@@ -51,6 +51,8 @@ Priyadarshini, "[How WhatsApp Leads Mobs to Murder in
 India](https://www.nytimes.com/interactive/2018/07/18/technology/whatsapp-india-killings.html)"
 The New York Times, July18, 2018
 
+[Grimmelman] James Grimmelman, [There’s No Justice Like Angry Mob Justice](https://2d.laboratorium.net/post/689763899836366848/theres-no-justice-like-angry-mob-justice), The Labrotorium, July 14, 2022. Summarizes and discusses a paper on [Morally Motivated Networked Harassment as Normative Reinforcement](https://href.li/?https://journals.sagepub.com/doi/full/10.1177/20563051211021378). I find motivation analysis sometimes confounds engineers, or results in simplistic solutions.
+
 [Grossman98] Grossman, Wendy, *net.wars* (NYUPress, 1998) in particular,
 [Chapter3](https://nyupress.org/netwars/pages/chapter03/ch03_02.html) covers how
 design issues led to conflict between AOL and Usenet.
