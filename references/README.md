@@ -91,6 +91,7 @@ which seems a bit odd given the nom de plume.)
 
 [Masnick18] Masnick, Mike, "[Platforms, Speech And Truth: Policy, Policing And Impossible Choices](https://www.techdirt.com/articles/20180808/17090940397/platforms-speech-truth-policy-policing-impossible-choices.shtml)", Techdirt, August 9, 2018
 
+Nathan J. Matias, The Real Name Fallacy, Vox Media Coral Project, https://coralproject.net/blog/the-real-name-fallacy/, January 3, 2017
 
 [Matsakis18] Matsakis, Louise, "[HOW PRO-EATING DISORDER POSTS EVADE FILTERS ON SOCIAL MEDIA]( https://www.wired.com/story/how-pro-eating-disorder-posts-evade-social-media-filters/)" June 13, 2018
 
