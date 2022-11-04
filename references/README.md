@@ -93,6 +93,8 @@ which seems a bit odd given the nom de plume.)
 
 Nathan J. Matias, The Real Name Fallacy, Vox Media Coral Project, https://coralproject.net/blog/the-real-name-fallacy/, January 3, 2017
 
+Mike Masnick, [Hey Elon: Let Me Help You Speed Run The Content Moderation Learning Curve](https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/) TechDirt, Nov 2, 2022
+
 [Matsakis18] Matsakis, Louise, "[HOW PRO-EATING DISORDER POSTS EVADE FILTERS ON SOCIAL MEDIA]( https://www.wired.com/story/how-pro-eating-disorder-posts-evade-social-media-filters/)" June 13, 2018
 
 [Metzinger] Thomas Metzinger, [Ethics washing made in Europe](https://m.tagesspiegel.de/politik/eu-guidelines-ethics-washing-made-in-europe/24195496.html), Der Tagesspiegel, April 4, 2019.  Presents an interesting history and strong critique of an AI ethics process and its resultant document.  The concerns that he raises could well apply in this area.
