@@ -49,7 +49,7 @@ Cons:
 Setting up operations to proactivly monitor volatile sisuations or important events (elections) and practively take steps (what steps?) to monitor, investage and limit the dissemination of fake content.
 
 ## Reporting systems
-Reporting systems range from Twitter/Facebook-style "flag this content" buttons to DMCA-style reporting. Twitter has written about "Birdwatch" a system for annoting posts. ([https://arxiv.org/abs/2210.15723](Wojcik), 2022)
+Reporting systems range from Twitter/Facebook-style "flag this content" buttons to DMCA-style reporting. Twitter has written about "Birdwatch" a system for annoting posts. ((Wojcik)[https://arxiv.org/abs/2210.15723], 2022)
 
 ## Rate limiting
 Pros: Stop the spread of fake news.
