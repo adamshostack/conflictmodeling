@@ -173,6 +173,8 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 
 [Watercutter19] Angela Watercutter, "[ROTTEN TOMATOES' REVAMP COULD SAVE CAPTAIN MARVEL](https://www.wired.com/story/rotten-tomatoes-captain-marvel-trolls/)" Wired, February 25, 2019
 
+Stefan Wojcik, Sophie Hilgard, Nick Judd, Delia Mocanu, Stephen Ragain, M.B. Fallin Hunzaker, Keith Coleman, Jay Baxter, Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of Misinformation, ArXiv, 27 Oct, 2022, https://arxiv.org/abs/2210.15723
+
 [Wong] Julia Carrie Wong, [Pinterest makes aggressive new move in fight against vaccine misinformation](https://www.theguardian.com/society/2019/aug/28/pinterest-anti-vaccine-combat-health-misinformation) The Guardian, 28 August 2019 Pinterest will now show only information from "major public health organizations" when searching for 200 terms related to vaccinces, and will "bar advertisements, recommendations and comments on those pages."  Also, [Bringing authoritative vaccine results to Pinterest search](https://newsroom.pinterest.com/en/post/bringing-authoritative-vaccine-results-to-pinterest-search)
 
 [Zimmerman19]  Annette Zimmermann and Bendert Zevenbergen, "[AI Ethics: Seven Traps](https://freedom-to-tinker.com/2019/03/25/ai-ethics-seven-traps/)" Freedom To Tinker blog, March 26, 2019
