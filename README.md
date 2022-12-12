@@ -51,7 +51,7 @@ technology threat modeling:
 
 Amanda Levendowski has made a convincing case that the hardest part of threat
 modeling conflict is figuring out what to do about the issues that you
-find.  This site aims to track pros and cons of possible methods.
+find. Evelyn Douek has a long article, [Content Moderation as Systems Thinking](https://harvardlawreview.org/2022/12/content-moderation-as-systems-thinking/). This site aims to track pros and cons of possible methods. 
 
 ## Ways to Contribute
 1. There's a lot of information in the references.  It would be great to mine and organize into the 4 question framework.
