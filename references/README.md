@@ -40,6 +40,8 @@ Measure Violence and Abuse against Women on Twitter](https://decoders.amnesty.or
 
 [Dzieza18], Dzieza, Josh, [Prime and Punishment: Dirty Dealing in the $175 Billion Amazon Marketplace](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement), Verge, December 19, 2018.  Discusses fake reviews being bought for competitors to trigger enforcement; how the enforcement mechanisms at Amazon appear from a seller's perspective.
 
+Douek, Evelyn, [Content Moderation as Systems Thinking](https://harvardlawreview.org/2022/12/content-moderation-as-systems-thinking/), Harvard Law Review 136 Harv. L. Rev. 526, Dec 12, 2022
+
 [EFF19] "[TOSsed Out](https://www.eff.org/tossedout)," Electronic Frontier Foundation.  (Undated; no author, but EFF board member Cory Doctorow [says](https://boingboing.net/2019/05/20/moderation-at-scale-2.html) "new" as of May 20, 2019.
 
 [Fisher] Joseph Fisher, [https://www.amazon.science/blog/mitigating-social-bias-in-knowledge-graph-embeddings](https://www.amazon.science/blog/mitigating-social-bias-in-knowledge-graph-embeddings) Amazon Science, November 25, 2020
