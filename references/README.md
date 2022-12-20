@@ -77,6 +77,8 @@ QUICK FIX](https://www.wired.com/2017/02/for-nextdoor-eliminating-racism-is-no-q
 
 [Instagram] [Introducing new tools to protect our community from abuse ](https://about.instagram.com/blog/announcements/introducing-new-tools-to-protect-our-community-from-abuse) blog post, April 21, 2021 Discusses the addition of controls to DM requests, and (confusingly) limits on new contact requests from people you've blocked who may have set up new accounts.
 
+Kozyreva, Anastasia, Philipp Lorenz-Spreen, Stefan M. Herzog, Ullrich K. H. Ecker, Stephan Lewandowsky, and Ralph Hertwig. 2022. “Toolbox of Interventions Against Online Misinformation and Manipulation.” PsyArXiv. December 16. doi:10.31234/osf.io/x8ejt.
+
 [Lawson18] Lawson, Nolan, "[Mastodon and the challenges of abuse in a federated system](https://nolanlawson.com/2018/08/31/mastodon-and-the-challenges-of-abuse-in-a-federated-system/)", blog post August 31, 2018.  
 
 [Levendowski16] Levendowski, Amanda "[Conflict Modeling](https://www.levendowski.net/conflict-modeling/)" in progress work.
