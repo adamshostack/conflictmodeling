@@ -14,6 +14,7 @@ Choices you have include, but are not limited to:
 
 **NOTE:** The problem with this page is that these controls can also be used on combination to each other and not just individual seperate controls. They have to be part of a cohesive strategy. One description of a strategy is in Zuckerman's description of Front Porch (2020). Mike Masnick describes the [content moderation learning curve](https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/) in relation to Musk's takeover of Twitter.
 
+In Dec, 2022, a set of experts in misinformation  released [Toolbox of Interventions Against Online Misinformation and Manipulation](https://psyarxiv.com/x8ejt/)
 
 
 ## Automated Response - AI/ML & Business Logic
