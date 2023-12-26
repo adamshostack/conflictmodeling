@@ -11,7 +11,7 @@ people behave online, which various people have approached with names
 like "social threat modeling," or "conflict modeling."  This site is
 intended as a frame for thinking about and collaborating around
 building blocks to help us understand such conflict, and to engineer
-ways to address it.
+ways to address it. Since I started tracking these ideas in 2017, an industry frame around "trust and safety" has emerged.
 
 A brief example may help illustrate.  When a business is in the news
 and Yelp detects that people are reviewing it based on the news rather
