@@ -5,6 +5,9 @@ Selecting controls is often tricky.  They involve known-tradeoffs.  Over time, t
 ## Rules vs Principles
 In [Warzel19](https://www.nytimes.com/2019/06/08/opinion/technology/youtube-crowder-vox-harassment-debate.html) Charlie Warzel and Sarah Jeong discuss principle-based and rule-based moderation, and Jeong says "The end result is that YouTube loses all trust, makes almost nobody happy and basically only empowers the worst actors by giving them more reason to have grievances. Even when YouTube does try to explain the logic to its rules, as it eventually did this week, it inadvertently lays out a map for how bad actors can sidestep takedowns, giving bad faith creators workarounds to harass or profit off bigotry. You know you’re in a real dark place when the good decisions YouTube makes are equally troubling."
 
+## Tooling
+A [2023 TechCrunch article](https://techcrunch.com/2023/12/21/y-combinator-backed-intrinsic-is-building-infrastructure-for-trust-and-safety-teams/) lists emerging Trust and Safety tooling including [Intrinsic](https://withintrinsic.com/), [Spectrum Labs](https://www.spectrumlabsai.com/) and [Cinder](https://cinder.co/)
+
 ### Unintended Consequences
 Many approaches which are obviously good turn out to have unintended consequences. In [Hard Examples](https://alecmuffett.com/article/15202) Alec Muffet reflects on time working at Facebook in Site Integrity.
 
