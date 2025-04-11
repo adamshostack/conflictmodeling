@@ -169,6 +169,8 @@ The Role of Social Context for Fake News Detection](http://www.public.asu.edu/~s
 
 [Thomspon18] Thompson, Nicholas, "[Exclusive: Facebook Opens Up About False News](https://www.wired.com/story/exclusive-facebook-opens-up-about-false-news/)", Wired, May 23, 2018
 
+[Turk25] Turk, Kieron Ivy, Anna Talas, and Alice Hutchings. "Threat Me Right: A Human HARMS Threat Model for Technical Systems." arXiv preprint arXiv:2502.07116 (2025).
+
 [TrustandSafety] [Trust and Safety Consortium github collection](https://github.com/stanfordio/TeachingTrustSafety)
 
 [Twitter2020] oel Roth and Ashita Achuthan, [Building rules in public: Our approach to synthetic & manipulated media](https://blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html) Blog post, Twitter, February 4, 2020
