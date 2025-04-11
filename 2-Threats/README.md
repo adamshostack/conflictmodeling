@@ -25,6 +25,8 @@ There are a lot of ways of conceptualizing the threats in this space, and none a
    ii. Harrassment of researchers
 6. An actor-centric approach
 
+A 2025 paper [Threat Me Right: A Human HARMS Threat Model for Technical Systems](https://arxiv.org/abs/2502.07116) presents a model of five elements: Harassment, Access and infiltration, Restrictions, Manipulation and tampering, and Surveillance. 
+
 # Text threats
 Text driven threats are now in their own [page](text.md)
 
