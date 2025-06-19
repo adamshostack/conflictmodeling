@@ -99,6 +99,9 @@ Nathan J. Matias, The Real Name Fallacy, Vox Media Coral Project, https://coralp
 
 Mike Masnick, [Hey Elon: Let Me Help You Speed Run The Content Moderation Learning Curve](https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/) TechDirt, Nov 2, 2022
 
+Tara Matthews, Elie Bursztein, Patrick Gage Kelley, Lea Kissner, Andreas Kramm, Andrew Oplinger, Andreas Schou, Manya Sleeper, Stephan Somogyi, Dalila Szostak, Kurt Thomas, Anna Turner, Jill Palzkill Woelfer, Lawrence L. You, Izzie Zahorian, and Sunny Consolvo. 2025. Supporting the Digital Safety of At-Risk Users: Lessons Learned from 9+ Years of Research and Training. ACM Trans. Comput.-Hum. Interact. 32, 3, Article 22 (June 2025), 39 pages. https://doi.org/10.1145/3716382
+
+
 [Matsakis18] Matsakis, Louise, "[HOW PRO-EATING DISORDER POSTS EVADE FILTERS ON SOCIAL MEDIA]( https://www.wired.com/story/how-pro-eating-disorder-posts-evade-social-media-filters/)" June 13, 2018
 
 [Metzinger] Thomas Metzinger, [Ethics washing made in Europe](https://m.tagesspiegel.de/politik/eu-guidelines-ethics-washing-made-in-europe/24195496.html), Der Tagesspiegel, April 4, 2019.  Presents an interesting history and strong critique of an AI ethics process and its resultant document.  The concerns that he raises could well apply in this area.
